@@ -7,18 +7,18 @@
 # url               the production URL of your site; note this won't be used in
 #                   dev mode unless `JEKYLL_ENV=production` is prepended;
 #                   override on per-page basis w/ `header_url` in front matter
-title:              Editorial                 # used by jekyll-seo-tag & jekyll-feed
-subtitle:           by HTML5 UP; Jekyllized by Middlebear
+title:              Josue Moura                 # used by jekyll-seo-tag & jekyll-feed
+subtitle:           Blog;
 tagline:            A free, responsive Jekyll blog template # used by jekyll-seo-tag
 description: >-                               # used by jekyll-seo-tag & jekyll-feed
   Write an awesome description for your new site under the 'description' key in
   _config.yml. It will appear in your document head meta (for Google search 
   results) and in your feed.xml site description.
-author:             your-name                 # used by jekyll-seo-tag & jekyll-feed
-email:              your-email@example.com    # used as contact email, unless obfuscated_email is present
+author:             Josue Moura                 # used by jekyll-seo-tag & jekyll-feed
+email:              josuepaulista@hotmail.com    # used as contact email, unless obfuscated_email is present
 baseurl:            ""                        # leave as empty string unless site lives in a sub-path like '/blog/'
-url:                "https://middlebear.org"  # used by jekyll-seo-tag & jekyll-feed
-logo:               "/assets/images/logo.png" # used by jekyll-seo-tag
+url:                "https://josuemour4.github.io/blog"  # used by jekyll-seo-tag & jekyll-feed
+logo:               "/blog/assets/images/logo.png" # used by jekyll-seo-tag
 lang:               # default is en-us        # used by jekyll-seo-tag
 timezone:           America/Los_Angeles       # set this to a standardized TZ name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 date_format:                                  # optional; set the way dates are formatted throughout the site - see https://ruby-doc.org/core/Time.html#method-i-strftime
@@ -28,7 +28,7 @@ date_format:                                  # optional; set the way dates are 
 ###################
 # Build settings
 ###################
-theme:              jekyll-theme-editorial                      # this theme! =)
+#theme:              jekyll-theme-editorial                      # this theme! =)
 remote_theme:       middlebear/jekyll-theme-editorial           # only needed on github pages, which automatically compiles jekyll for you
 # remote_theme:       middlebear/jekyll-theme-editorial@0.1.0   # to lock to a given version - https://github.com/benbalter/jekyll-remote-theme
 permalink:          /:collection/:title:output_ext              # NOTE: changing this default hasn't been tested
@@ -54,7 +54,7 @@ collections:                                  # The theme currently supports the
 # TODO: namespace these settings with theme name? e.g., jekyll-theme-editorial: ...
 ###################
 contact:                                      # this info shows up in the contact area of the sidebar; leave any blank that you don't wish to share
-  name:             "Name for contacting you"
+  name:             "Josue Moura"
   heading:          "Get in touch"
   message:          "You can obfuscate your email address to reduce spam. Click on the 'contact email' link below to reveal the real email."
   email_key:        144                       # choose a number between 0-255; use this key to generate obfuscated_email using the encodeEmail() function in the browser's javascript console
@@ -65,9 +65,9 @@ contact:                                      # this info shows up in the contac
     city:           "Cupertino"
     state:          "CA"
     zipcode:        "95014"
-image_path:         '/assets/images/'         # site-wide default path for images
-script_path:        '/assets/js/'             # site-wide default path for scripts
-style_path:         '/assets/css/'            # site-wide default path for styles
+image_path:         '/blog/assets/images/'         # site-wide default path for images
+script_path:        '/blog/assets/js/'             # site-wide default path for scripts
+style_path:         '/blog/assets/css/'            # site-wide default path for styles
 # NOTE that if you want site author pages to not be generated, you have to set 
 #      `output: false` under the people collection setting in Collections above
 # ALSO NOTE that any link tags to authors will break if people are not output
@@ -130,7 +130,7 @@ defaults:
   - scope:
       path:         ""
       type:         "posts"
-      image:        /assets/images/default-card.png # default twitter card image for jekyll-seo-tag plugin
+      image:        /blog/assets/images/default-card.png # default twitter card image for jekyll-seo-tag plugin
     values:
       layout:       "post"
       menus:        'posts'                   # used by jekyll-menus plugin
@@ -147,7 +147,7 @@ defaults:
       layout:       "author"
       menus:        'authors'                 # used by jekyll-menus plugin
       type:         "people"
-      image_path:   "/assets/images/"
+      image_path:   "/blog/assets/images/"
       author_bio:   "<p>We're still working on a fabulous author bio and page. Check back later to learn more!</p>"
       comments:     false
       published:    true
@@ -157,7 +157,7 @@ defaults:
     values:
       layout:       "page"
       type:         "pages"
-      image_path:   "/assets/images/"
+      image_path:   "/blog/assets/images/"
       comments:     false
       published:    true
   - scope:
@@ -167,11 +167,11 @@ defaults:
       layout:       "project"
       menus:        'projects'                # used by jekyll-menus plugin
       type:         "projects"
-      image_path:   "/assets/images/"
+      image_path:   "/blog/assets/images/"
       comments:     false
       published:    false
   - scope:
-      path:         "/assets/images"
+      path:         "/blog/assets/images"
     values:
       image:        true
 
@@ -216,7 +216,7 @@ jekyll-mentions:    /people
 # Jekyll Paginate - https://jekyllrb.com/docs/pagination/
 ###################
 # paginate:           3
-paginate_path:      "/posts/:num/"
+paginate_path:      "/blog/posts/:num/"
 
 
 ###################
@@ -257,7 +257,7 @@ jekyll-hashtags:
 ###################
 # Jekyll Archives (unsupported by github pages) - https://github.com/jekyll/jekyll-archives
 ###################
-archives_root:      '/'       # set this to the path prefix for all date-based archives pages, e.g., '/archives'
+archives_root:      '/blog/'       # set this to the path prefix for all date-based archives pages, e.g., '/archives'
 jekyll-archives:
   enabled:          [month, year, categories, tags]
   layouts:
