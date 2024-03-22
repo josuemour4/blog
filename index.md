@@ -2,7 +2,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout:               home
 body_class:           home
-title:                "Hi, I’m Josue<br /> by HTML5 UP & Middle Bear"
+title:                "Hi, I’m Josue  <br /> by HTML5 UP & Middle Bear"
 subtitle:             # overrides `site.tagline`, the default
 description:          "Check out the Github repo for the Editorial theme, or take a look at the code for the demo site, <a href='https://github.com/jekyll-theme-editorial/jekyll-theme-editorial.github.io/'>jekyll-theme-editorial.github.io</a>."
 banner:
