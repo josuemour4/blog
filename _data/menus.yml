@@ -1,42 +1,42 @@
 # `jekyll-menus`site navigation is built from this hierarchical list
 sidebar:
-  - url:        /
+  - url:        /blog/
     title:      Home
     identifier: home
     weight:     1
-  - url:        /about
+  - url:        /blog/about
     title:      About
     identifier: about
     weight:     10
-  - url:        /elements
+  - url:        /blog/elements
     title:      Elements
     identifier: elements
     weight:     11
-  - url:        /posts
+  - url:        /blog/posts
     title:      Recent Posts
     identifier: posts
     weight:     20
-  - url:        /archives
+  - url:        /blog/archives
     title:      Archives
     identifier: archives
     weight:     21
-  - url:        /categories
+  - url:        /blog/categories
     title:      Categories
     identifier: categories
     weight:     30
-  - url:        /tags
+  - url:        /blog/tags
     title:      Tags
     identifier: tags
     weight:     31
-  - url:        /projects
+  - url:        /blog/projects
     title:      Projects
     identifier: projects
     weight:     40
-  - url:        /people
+  - url:        /blog/people
     title:      Authors
     identifier: authors
     weight:     50
-  - url:        /signin
+  - url:        /blog/signin
     title:      Sign In
     identifier: signin
     weight:     60
