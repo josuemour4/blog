@@ -16,8 +16,8 @@ description: >-                               # used by jekyll-seo-tag & jekyll-
   results) and in your feed.xml site description.
 author:             Josue Moura                 # used by jekyll-seo-tag & jekyll-feed
 email:              josuepaulista@hotmail.com    # used as contact email, unless obfuscated_email is present
-baseurl:            "/blog/"                        # leave as empty string unless site lives in a sub-path like '/blog/'
-url:                "https://josuemour4.github.io/"  # used by jekyll-seo-tag & jekyll-feed
+baseurl:            ""                        # leave as empty string unless site lives in a sub-path like '/blog/'
+url:                "https://josuemour4.github.io/blog"  # used by jekyll-seo-tag & jekyll-feed
 logo:               "/blog/assets/images/logo.png" # used by jekyll-seo-tag
 lang:               # default is en-us        # used by jekyll-seo-tag
 timezone:           America/Los_Angeles       # set this to a standardized TZ name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
@@ -129,13 +129,13 @@ defaults:
       published:    true
   - scope:
       path:         ""
-      type:         "/posts"
+      type:         "posts"
       image:        /blog/assets/images/default-card.png # default twitter card image for jekyll-seo-tag plugin
     values:
-      layout:       "/blog/post"
-      menus:        '/blog/posts'                   # used by jekyll-menus plugin
-      type:         "/blog/posts"
-      body_class:   "/blog/post"                    # overrides the class attribute on the html body tag
+      layout:       "post"
+      menus:        'posts'                   # used by jekyll-menus plugin
+      type:         "posts"
+      body_class:   "post"                    # overrides the class attribute on the html body tag
       image_path:   "/blog/assets/images/"
       author_bio:   "<p>We're still working on a fabulous author bio and page. Check back later to learn more!</p>"
       comments:     true
@@ -162,11 +162,11 @@ defaults:
       published:    true
   - scope:
       path:         ""
-      type:         "projects"
+      type:         "/blog/projects"
     values:
-      layout:       "project"
-      menus:        'projects'                # used by jekyll-menus plugin
-      type:         "projects"
+      layout:       "/blog/project"
+      menus:        '/blog/projects'                # used by jekyll-menus plugin
+      type:         "/blog/projects"
       image_path:   "/blog/assets/images/"
       comments:     false
       published:    false
