@@ -121,27 +121,27 @@ scripts:                                      # these scripts entries can be mov
 ###################
 defaults:
   - scope:
-      path:         ""
+      path:         "/blog"
     values:
       layout:       "default"
       type:         "pages"
       comments:     false
       published:    true
   - scope:
-      path:         ""
-      type:         "blog/posts"
+      path:         "/blog"
+      type:         "posts"
       image:        /blog/assets/images/default-card.png # default twitter card image for jekyll-seo-tag plugin
     values:
       layout:       "post"
-      menus:        '/blog/posts'                   # used by jekyll-menus plugin
-      type:         "/blog/posts"
+      menus:        'posts'                   # used by jekyll-menus plugin
+      type:         "posts"
       body_class:   "post"                    # overrides the class attribute on the html body tag
       image_path:   "/blog/assets/images/"
       author_bio:   "<p>We're still working on a fabulous author bio and page. Check back later to learn more!</p>"
       comments:     true
       published:    true
   - scope:
-      path:         ""
+      path:         "/blog"
       type:         "people"
     values:
       layout:       "author"
@@ -152,7 +152,7 @@ defaults:
       comments:     false
       published:    true
   - scope:
-      path:         ""
+      path:         "/blog"
       type:         "pages"
     values:
       layout:       "page"
@@ -161,7 +161,7 @@ defaults:
       comments:     false
       published:    true
   - scope:
-      path:         ""
+      path:         "/blog"
       type:         "projects"
     values:
       layout:       "project"
