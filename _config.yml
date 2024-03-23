@@ -133,7 +133,7 @@ defaults:
       image:        /blog/assets/images/default-card.png # default twitter card image for jekyll-seo-tag plugin
     values:
       layout:       "post"
-      menus:        'blog/posts'                   # used by jekyll-menus plugin
+      menus:        'posts'                   # used by jekyll-menus plugin
       type:         "posts"
       body_class:   "post"                    # overrides the class attribute on the html body tag
       image_path:   "/blog/assets/images/"
@@ -257,7 +257,7 @@ jekyll-hashtags:
 ###################
 # Jekyll Archives (unsupported by github pages) - https://github.com/jekyll/jekyll-archives
 ###################
-archives_root:      'blog/'       # set this to the path prefix for all date-based archives pages, e.g., '/archives'
+archives_root:      '/blog/'       # set this to the path prefix for all date-based archives pages, e.g., '/archives'
 jekyll-archives:
   enabled:          [month, year, categories, tags]
   layouts:
