@@ -129,12 +129,12 @@ defaults:
       published:    true
   - scope:
       path:         ""
-      type:         "posts"
+      type:         "blog/posts"
       image:        /blog/assets/images/default-card.png # default twitter card image for jekyll-seo-tag plugin
     values:
       layout:       "post"
       menus:        'blog/posts'                   # used by jekyll-menus plugin
-      type:         "posts"
+      type:         "blog/posts"
       body_class:   "post"                    # overrides the class attribute on the html body tag
       image_path:   "/blog/assets/images/"
       author_bio:   "<p>We're still working on a fabulous author bio and page. Check back later to learn more!</p>"
