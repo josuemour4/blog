@@ -4,6 +4,7 @@ author:           petunia
 date:             2020-01-01 08:01:02 -0800
 last_modified_at: 
 categories:       [jekyll, editorial]
+permalink: "blog/interdum-aenean"
 tags:             []
 series:           "build-a-blog"
 images:
