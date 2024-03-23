@@ -14,7 +14,7 @@ sidebar:
     weight:     11
   - url:        /blog/posts
     title:      Recent Posts
-    identifier: posts
+    identifier: /blog/posts
     weight:     20
   - url:        /blog/archives
     title:      Archives
