@@ -162,12 +162,12 @@ defaults:
       published:    true
   - scope:
       path:         ""
-      type:         "/blog/projects"
+      type:         "blog/projects"
     values:
-      layout:       "/blog/project"
-      menus:        '/blog/projects'                # used by jekyll-menus plugin
-      type:         "/blog/projects"
-      image_path:   "/blog/assets/images/"
+      layout:       "blog/project"
+      menus:        'blog/projects'                # used by jekyll-menus plugin
+      type:         "blog/projects"
+      image_path:   "blog/assets/images/"
       comments:     false
       published:    false
   - scope:
