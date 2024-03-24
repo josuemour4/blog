@@ -13,7 +13,7 @@
             {% if image or placeholder.name-%}
               <div class="col-4 col-12-small">
                 <figure>
-                  <a href="/blog{{ post.url }}{{-post.url-}}" class="image fit" title="Read '{{-post.title-}}'">
+                  <a href="{{-post.url-}}" class="image fit" title="Read '{{-post.title-}}'">
                     {% include item_image.html %}
                   </a>
                 </figure>
@@ -30,14 +30,14 @@
               {%-endif %}
                 <header class="tight">
                   <span class="header-aside">{% include item_date.html %}</span>
-                  <h3><a href="/blog{{ post.url }}{{-post.url-}}" itemprop="headline" class="u-url p-name" title="Read '{{-post.title-}}'">{{-post.title-}}</a></h3>
+                  <h3><a href="{{-post.url-}}" itemprop="headline" class="u-url p-name" title="Read '{{-post.title-}}'">{{-post.title-}}</a></h3>
                   {% if post.subtitle-%}<p class="subtitle p-subtitle" itemprop="alternativeHeadline">{{-post.subtitle-}}</p>{%-endif %}
                   <p class="byline">
                   {%-if site.show.authors-%}
                     {%-for auth in post.author-%}
                       {%-assign author = site.people | where: 'handle', auth | first-%}
                       {%-if author.published and peeps.output-%}
-                        <a href="/blog{{ post.url }}{{-author.url-}}" rel="author" itemprop="author" class="u-author p-author" title="Read {{ author.name | split: ' ' | first-}}'s bio">{{-author.name-}}</a>
+                        <a href="{{-author.url-}}" rel="author" itemprop="author" class="u-author p-author" title="Read {{ author.name | split: ' ' | first-}}'s bio">{{-author.name-}}</a>
                       {%-elsif author.published-%}
                         <span itemprop="author" class="p-author">{{-author.name-}}</span>
                       {%-else-%}
