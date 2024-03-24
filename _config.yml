@@ -129,7 +129,7 @@ defaults:
       published:    true
 
   - scope:
-      path:         "/blog/"
+      path:         ""
       type:         "posts"
       image:        /blog/assets/images/default-card.png # default twitter card image for jekyll-seo-tag plugin
     values:
