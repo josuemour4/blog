@@ -16,7 +16,7 @@ local:
             {% if project.images-%}
               <div class="col-4 col-12-small">
                 <figure>
-                  <a href="{{-project.url-}}" class="image fit" title="Learn more about '{{-project.title-}}'">
+                  <a href="/blog{{ post.url }}{{-project.url-}}" class="image fit" title="Learn more about '{{-project.title-}}'">
                     {% include item_image.html-%}
                   </a>
                 </figure>
@@ -33,7 +33,7 @@ local:
               {%-endif %}
                 <header class="tight">
                   <span class="header-aside">{% include item_date.html %}</span>
-                  <h3><a href="{{-project.url-}}" itemprop="name" class="u-url p-name" title="Learn more about '{{-project.title-}}'">{{-project.title-}}</a></h3>
+                  <h3><a href="/blog{{ post.url }}{{-project.url-}}" itemprop="name" class="u-url p-name" title="Learn more about '{{-project.title-}}'">{{-project.title-}}</a></h3>
                   <p class="subtitle p-subtitle" itemprop="alternativeHeadline">{{-project.subtitle-}}</p>
                   {%-if site.show.project_authors and site.show.authors and project.author or project.location-%}
                   <div class="byline">
