@@ -16,7 +16,7 @@ description: >-                               # used by jekyll-seo-tag & jekyll-
   results) and in your feed.xml site description.
 author:             Josue Moura                 # used by jekyll-seo-tag & jekyll-feed
 email:              josuepaulista@hotmail.com    # used as contact email, unless obfuscated_email is present
-baseurl:            "/blog/"                        # leave as empty string unless site lives in a sub-path like '/blog/'
+baseurl:            ""                        # leave as empty string unless site lives in a sub-path like '/blog/'
 url:                "https://josuemour4.github.io/blog"  # used by jekyll-seo-tag & jekyll-feed
 logo:               "/blog/assets/images/logo.png" # used by jekyll-seo-tag
 lang:               # default is en-us        # used by jekyll-seo-tag
