@@ -133,8 +133,8 @@ defaults:
       image:        /blog/assets/images/default-card.png # default twitter card image for jekyll-seo-tag plugin
     values:
       layout:       "post"
-      menus:        'posts'                   # used by jekyll-menus plugin
-      type:         "posts"
+      menus:        'blog/posts'                   # used by jekyll-menus plugin
+      type:         "blog/posts"
       body_class:   "post"                    # overrides the class attribute on the html body tag
       image_path:   "/blog/assets/images/"
       author_bio:   "<p>We're still working on a fabulous author bio and page. Check back later to learn more!</p>"
