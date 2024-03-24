@@ -11,10 +11,10 @@
               {%-if project.published == true %}
               <article>
                 <header>
-                  <h3><a href="{{-project.url-}}" title="{{-project_menu.title | capitalize }} page for '{{-project.title-}}'">{{-project.title-}}</a></h3>
+                  <h3><a href="/blog{{ post.url }}{{-project.url-}}" title="{{-project_menu.title | capitalize }} page for '{{-project.title-}}'">{{-project.title-}}</a></h3>
                 </header>
                 <figure>
-                  <a href="{{-project.url-}}" title="{{-project_menu.title | capitalize }} page for '{{-project.title-}}'" class="image">
+                  <a href="/blog{{ post.url }}{{-project.url-}}" title="{{-project_menu.title | capitalize }} page for '{{-project.title-}}'" class="image">
                     {% include item_image.html %}
                   </a>
                 </figure>
