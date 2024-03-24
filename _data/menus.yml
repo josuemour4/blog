@@ -12,9 +12,9 @@ sidebar:
     title:      Elements
     identifier: elements
     weight:     11
-  - url:        /blog/blog/posts
+  - url:        /blog/posts
     title:      Recent Posts
-    identifier: /blog/blog/posts
+    identifier: /blog/posts
     weight:     20
   - url:        /blog/archives
     title:      Archives
