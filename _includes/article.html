@@ -16,7 +16,7 @@ NOTE: liquid append-remove trick (`-@$remove@me`) inspired by https://vsoch.gith
 <!-- Article - {{ article.title }} -->
     <article class="{{-item_type-}}-card">
       <figure>
-        <a href="{{-article.url-}}" class="image" title="Read '{{-article.title-}}'">
+        <a href="/blog{{ post.url }}{{-article.url-}}" class="image" title="Read '{{-article.title-}}'">
           {% include item_image.html-%}
         </a>
       </figure>
@@ -29,7 +29,7 @@ NOTE: liquid append-remove trick (`-@$remove@me`) inspired by https://vsoch.gith
         {% include categories.html  list_class='smaller' %}
       </div>
       <header>
-        <h3><a href="{{-article.url-}}" title="Read '{{-article.title-}}'">{{-article.title-}}</a></h3>
+        <h3><a href="/blog{{ post.url }}{{-article.url-}}" title="Read '{{-article.title-}}'">{{-article.title-}}</a></h3>
       </header>
       {%-if site.show.authors %}
         {%-include item_authors.html %}
@@ -41,7 +41,7 @@ NOTE: liquid append-remove trick (`-@$remove@me`) inspired by https://vsoch.gith
       <div class="tags">{%-include tags.html %}</div>
       {%-if site.show.more_button %}
       <ul class="actions">
-        <li><a href="{{-article.url-}}" title="Read '{{-article.title-}}'" class="button">More</a></li>
+        <li><a href="/blog{{ post.url }}{{-article.url-}}" title="Read '{{-article.title-}}'" class="button">More</a></li>
       </ul>
       {%-endif %}
     </article>
