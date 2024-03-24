@@ -13,7 +13,7 @@
             {% if image or placeholder.name-%}
               <div class="col-4 col-12-small">
                 <figure>
-                  <a href="{{-post.url-}}" class="image fit" title="Read '{{-post.title-}}'">
+                  <a href="/blog{{ post.url }}{{-post.url-}}" class="image fit" title="Read '{{-post.title-}}'">
                     {% include item_image.html %}
                   </a>
                 </figure>
@@ -30,7 +30,7 @@
               {%-endif %}
                 <header class="tight">
                   <span class="header-aside">{% include item_date.html %}</span>
-                  <h3><a href="{{-post.url-}}" itemprop="headline" class="u-url p-name" title="Read '{{-post.title-}}'">{{-post.title-}}</a></h3>
+                  <h3><a href="/blog{{ post.url }}{{-post.url-}}" itemprop="headline" class="u-url p-name" title="Read '{{-post.title-}}'">{{-post.title-}}</a></h3>
                   {% if post.subtitle-%}<p class="subtitle p-subtitle" itemprop="alternativeHeadline">{{-post.subtitle-}}</p>{%-endif %}
                   <p class="byline">
                   {%-if site.show.authors-%}
