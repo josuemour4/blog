@@ -127,8 +127,9 @@ defaults:
       type:         "pages"
       comments:     false
       published:    true
+
   - scope:
-      path:         ""
+      path:         "/blog/"
       type:         "posts"
       image:        /blog/assets/images/default-card.png # default twitter card image for jekyll-seo-tag plugin
     values:
@@ -140,6 +141,7 @@ defaults:
       author_bio:   "<p>We're still working on a fabulous author bio and page. Check back later to learn more!</p>"
       comments:     true
       published:    true
+
   - scope:
       path:         ""
       type:         "people"
