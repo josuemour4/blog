@@ -16,18 +16,18 @@ sidebar:
     title:      Recent Posts
     identifier: posts
     weight:     20
-  - url:        /blog/archives
-    title:      Archives
-    identifier: archives
-    weight:     21
-  - url:        /blog/categories
-    title:      Categories
-    identifier: categories
-    weight:     30
-  - url:        /blog/tags
-    title:      Tags
-    identifier: tags
-    weight:     31
+  #- url:        /blog/archives
+   # title:      Archives
+    #identifier: archives
+    #weight:     21
+  #- url:        /blog/categories
+  #  title:      Categories
+   # identifier: categories
+   # weight:     30
+  #- url:        /blog/tags
+  #  title:      Tags
+  #  identifier: tags
+ #   weight:     31
   - url:        /blog/projects
     title:      Projects
     identifier: projects
