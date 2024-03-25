@@ -18,7 +18,7 @@ local:
   <ul class="sub-menu">
     {%-for item in menu_items limit: item_limit %}
       {%-if item.published == true %}
-    <li{%-if item.url == page.url %} class="active"{%-endif-%}><a href="{{-item.url-}}">{{-item.name | default: item.title-}}</a></li>
+    <li{%-if item.url == page.url %} class="active"{%-endif-%}><a href="/blog{{-item.url-}}">{{-item.name | default: item.title-}}</a></li>
       {%-endif-%}
     {%-endfor %}
   </ul>
