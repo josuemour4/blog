@@ -6,7 +6,7 @@ permalink: /about/
 
 Hello, again!
 
-I firmly believe that you may have already visited my portfolio. However, because this portfolio is uniquely mine, it offers more than just a showcase of my work. It serves as a space where I not only present my projects but also organize my thoughts and pursue personal interests.
+I firmly believe that you may have already visited my portfolio. However, because this blog is uniquely mine, it offers more than just a showcase of my work. It serves as a space where I not only present my projects but also organize my thoughts and pursue personal interests.
 
 Technology has always fascinated me. I believe it was a fundamental tool for my professional and personal growth. Through it, I was able to achieve significant achievements and now I share a little of myself with you.
 
