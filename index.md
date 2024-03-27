@@ -21,7 +21,7 @@ images:
 {%-include responsive_banner.html-%}
 
 <!-- Section - Features -->
-{%-include features.html section_title="Cool Features"-%}
+<!-- {%-include features.html section_title="Cool Features"-%} -->
 
 <!-- Section - Articles -->
 {%-include articles.html section_title="Neat Articles"-%}

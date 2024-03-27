@@ -70,3 +70,4 @@ In summary, Jekyll offers a number of advantages, including ease of use, efficie
 | Jekyll  | [![Jekyll](https://img.shields.io/badge/powered_by-Jekyll-yellow.svg)](https://jekyllrb.com)  |
 |Liquid Templating Language| [![LTS](https://github.com/Shopify/liquid/actions/workflows/liquid.yml/badge.svg)](https://shopify.github.io/liquid/)  |
 | YAML | [![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)](https://yaml.org/spec/1.2.2/)  |
+| Github | [![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com)  |
