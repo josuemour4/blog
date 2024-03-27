@@ -17,16 +17,16 @@ images:
 
 **Jekyll** is a powerful program written in Ruby that allows you to create dynamic websites and blogs using just HTML, CSS and JavaScript. Technically, it is called a Static Site Generator (SSG), which means it generates static HTML pages from text files.
 
-Jekyll is the most used SSG in the world, and for good reason:
+**Jekyll** is the most used SSG in the world, and for good reason:
 
-- Easy to use: Jekyll uses a simple and intuitive syntax that makes it easy to create websites, even for those with no programming experience.
+- **Easy to use**: Jekyll uses a simple and intuitive syntax that makes it easy to create websites, even for those with no programming experience.
 Fast and efficient: Websites on Jekyll are fast and lightweight, providing a great user experience.
-- Flexible: Jekyll offers a wide variety of plugins and themes to customize your website.
-- Free and open source: Jekyll is a free and open source tool, which means you can use and modify it freely.
+- **Flexible**: Jekyll offers a wide variety of plugins and themes to customize your website.
+- **Free and open source**: Jekyll is a free and open source tool, which means you can use and modify it freely.
 
 ### How does Jekyll work?
 
-Jekyll websites are written using three programming technologies:
+**Jekyll** websites are written using three programming technologies:
 
 - **Liquid Templating Language**: A powerful templating language that allows you to create dynamic HTML pages.
 - **YAML**: A data serialization language that makes it easy to set up your website.
@@ -60,3 +60,13 @@ Jekyll is an ideal tool for creating simple static websites, but it may not be s
 ### Conclusion
 
 In summary, Jekyll offers a number of advantages, including ease of use, efficiency in generating static sites, flexibility for customization, and being free and open source. However, its suitability for more complex projects is limited, due to the lack of advanced functionality such as login systems or integrated CMS. Additionally, the need to manually manage website content, find external hosting, and deal with potential syntax errors can pose challenges for some users. Despite this, for simple projects and those who value the simplicity and performance of static websites, Jekyll remains an attractive option.
+
+
+### To get a better understanding 
+
+| Source | Link |
+|----------|----------|
+| Markdown  | [![Linkedin Badge](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org//)   |
+| Jekyll  | [![Jekyll](https://img.shields.io/badge/powered_by-Jekyll-yellow.svg)](https://jekyllrb.com)  |
+|Liquid Templating Language| [![LTS](https://github.com/Shopify/liquid/actions/workflows/liquid.yml/badge.svg)](https://shopify.github.io/liquid/)  |
+| YAML | [![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)](https://yaml.org/spec/1.2.2/)  |
