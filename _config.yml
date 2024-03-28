@@ -56,15 +56,15 @@ collections:                                  # The theme currently supports the
 contact:                                      # this info shows up in the contact area of the sidebar; leave any blank that you don't wish to share
   name:             "Josue Moura"
   heading:          "Get in touch"
-  message:          "You can obfuscate your email address to reduce spam. Click on the 'contact email' link below to reveal the real email."
+  message:          "Click on contact email to show my email address."
   email_key:        144                       # choose a number between 0-255; use this key to generate obfuscated_email using the encodeEmail() function in the browser's javascript console
   obfuscated_email: "90e9ffe5e2bdf5fdf1f9fcd0f5e8f1fde0fcf5bef3fffd" # https://andrewlock.net/simple-obfuscation-of-email-addresses-using-javascript/
-  phone:            "(000) 000-0000"          # shows up in the contacts section of the sidebar
+  phone:            "0415 553 107"          # shows up in the contacts section of the sidebar
   address:                                    # shows up in the contacts section of the sidebar
-    line1:          "1 Infinite Loop"
-    city:           "Cupertino"
-    state:          "CA"
-    zipcode:        "95014"
+    line1:          "392 Jones St"
+    city:           "Sydney"
+    state:          "NSW"
+    zipcode:        "2007"
 image_path:         '/blog/assets/images/'         # site-wide default path for images
 script_path:        '/blog/assets/js/'             # site-wide default path for scripts
 style_path:         '/blog/assets/css/'            # site-wide default path for styles
