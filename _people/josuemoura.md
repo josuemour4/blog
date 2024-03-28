@@ -3,9 +3,9 @@ handle:           josue
 name:             Josue Moura
 blurb:            ""
 title:            "Author: Josue Moura"  # used for the HTML page title tag
-website:          https://augustus.example.com/
+website:          
 position:         "Founder"
-company:          "JM & L Electrical Services"
+company:          
 company_url:      josuemour4.github.io
 images:
   default:
@@ -23,7 +23,3 @@ published:        true
 Believes in the power of technology to transform education. In the midst of a world in constant technological evolution, I see in my own example, how important technology was for my improvement and development.
 
 Technology should be used as a facilitator, a tool that helps people develop socio-emotional skills and promote autonomy.
-
-### Explorations
-
-It is not so easy to think and especially to write when your head it is over thinking about a problem that.
