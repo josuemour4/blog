@@ -5,47 +5,47 @@
 #         Icons are `icon brands` + the fontawsome class names to be used
 github:
   label:    Github
-  handle:   middlebear
+  handle:   josuemour4
   pattern:  https://github.com/%s
   icon:     icon brands fa-github
 gravatar:
   label:    Gravatar
-  handle:   middlebear2
+  handle:   #middlebear2
   pattern:  https://gravatar.com/%s
   icon:     icon brands fa-google fa-rotate-270
 rubygems:
   label:    RubyGems
-  handle:   middlebear
+  handle:   #middlebear
   pattern:  https://rubygems.org/profiles/%s
   icon:     icon fa-gem
 twitter:
   label:    Middlebear Twitter
-  handle:   middlebear2
+  handle:   #middlebear2
   pattern:  https://twitter.com/%s
   icon:     icon brands fa-twitter
 twitter2:
   label:    Jekyll Twitter
-  handle:   jekyllrb
+  handle:   #jekyllrb
   pattern:  https://twitter.com/%s
   icon:     icon brands fa-twitter
 medium:
   label:    Medium
-  handle:   jekyll
+  handle:   #jekyll
   pattern:  https://medium.com/@%s
   icon:     icon brands fa-medium-m
 facebook:
   label:    Facebook
-  handle:   # jekyll
+  handle:   josueomoura
   pattern:  https://www.facebook.com/%s
   icon:     icon brands fa-facebook-f
 linkedin:
   label:    LinkedIn
-  handle:   # jekyll
+  handle:   josue-moura-1016052b9
   pattern:  https://www.linkedin.com/in/%s
   icon:     icon brands fa-linkedin
 instagram:
   label:    Instagram
-  handle:   jekyll
+  handle:   josuemour4
   pattern:  https://www.instagram.com/%s
   icon:     icon brands fa-instagram
 snapchat:

@@ -20,7 +20,7 @@ baseurl:            "/blog/"                        # leave as empty string unle
 url:                "https://josuemour4.github.io/blog"  # used by jekyll-seo-tag & jekyll-feed
 logo:               "/blog/assets/images/logo.png" # used by jekyll-seo-tag
 lang:               # default is en-us        # used by jekyll-seo-tag
-timezone:           America/Los_Angeles       # set this to a standardized TZ name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:           Australia/Sydney       # set this to a standardized TZ name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 date_format:                                  # optional; set the way dates are formatted throughout the site - see https://ruby-doc.org/core/Time.html#method-i-strftime
 
 
@@ -287,14 +287,12 @@ twitter:
 #   publisher:        1232529   # Facebook page URL or ID of the publishing entity
 #   admins:           1236093   # Facebook user ID for domain insights linked to a personal account
 social:                       # use `_data/social.yml` to configure visible links to social media
-  name:             "Middle Bear"
+  name:             "Josue Moura"
   links:
-    - https://twitter.com/middlebear2
-    - https://gravatar.com/middlebear2
-    - https://github.com/middlebear
-    - https://rubygems.org/profiles/middlebear
-    - https://twitter.com/jekyllrb
-    - https://github.com/jekyll
+    - https://facebook.com/josueomoura
+    - https://instagram.com/josuemour4
+    - https://github.com/josuemour4
+    - https://github.com/josuemour4
 # webmaster_verifications:
 #   google:           UA-1234-1
 #   bing:             1234
