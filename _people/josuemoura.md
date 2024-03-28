@@ -26,4 +26,4 @@ Technology should be used as a facilitator, a tool that helps people develop soc
 
 ### Explorations
 
-It is not so easy to thing and especially to write when your head it is over thing about a problem taht.
+It is not so easy to think and especially to write when your head it is over thinking about a problem that.
