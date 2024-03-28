@@ -9,8 +9,9 @@
   <head>
     <!-- <title>{{-site.title-}}</title> -->
     {% include head.html %}
-    
+    {% if jekyll.environment == 'production' and site.google_analytics %}
     {% include analytics.html %}
+    {% endif %}
   </head>
   <body class="{{-page.body_class | default: page.collection | append: ' '-}}is-preload">
     <div id="wrapper">
