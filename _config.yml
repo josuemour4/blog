@@ -9,7 +9,7 @@
 #                   override on per-page basis w/ `header_url` in front matter
 title:              Josue Moura                 # used by jekyll-seo-tag & jekyll-feed
 subtitle:           Blog;
-tagline:             # used by jekyll-seo-tag
+tagline:            My space # used by jekyll-seo-tag
 description: >-                               # used by jekyll-seo-tag & jekyll-feed
   Write an awesome description for your new site under the 'description' key in
   _config.yml. It will appear in your document head meta (for Google search 
