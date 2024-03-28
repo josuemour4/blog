@@ -299,3 +299,8 @@ social:                       # use `_data/social.yml` to configure visible link
 #   alexa:            1234
 #   yandex:           1234
 #   baidu:            1234
+
+####################
+# Google analytics #
+####################
+google_analytics: "G-14KQ6LX25C"
