@@ -16,7 +16,7 @@ images:                                       # all images are optional; banner 
     caption:        "Lorem Heights perches above the dreary doldrums of yesteryear."
   alt_text:       "shouldn't see me anywhere."
   caption:        "shouldn't see me anywhere."
-  title:          "Lorem Heights perches above the dreary doldrums of yesteryear."
+  title:          "This image looks like a nightmare."
 summary:          "The project consists of developing an open source Employee Management System, specifically designed to meet the needs of low-budget companies. The goal is to provide an affordable and effective tool for companies that do not have the financial resources to invest in commercial employee management solutions."  # summaries are used on list (index) pages rather than excerts, so that authors have more control over the lead-in
 published:        true
 ---
