@@ -21,7 +21,9 @@ summary:          "The project consists of developing an open source Employee Ma
 published:        true
 ---
 
-This project aims to offer an employee management tool for companies with a low budget. I am the only person behind all the work, so the estimated time for completing this system is uncertain. Initially, the characteristics that are implemented in this project are:
+This project aims to offer an employee management tool for companies with a low budget. 
+
+I am the only person behind all the work, so the estimated time for completing this system is uncertain. Initially, the characteristics that are implemented in this project are:
 <br/><br/><br/><br/><br/>
 **Recursos Principais**:
 
