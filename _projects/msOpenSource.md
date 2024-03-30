@@ -4,8 +4,8 @@ subtitle:
 author:           Josue
 date:             2024-03-28 10:30:00 -0300
 last_modified_at: 
-categories:       [Employee Management System, Open Source, Low Budget Companies]
-tags:             [whizbang, whifflepuff]
+categories:       [Software Development, Open Source, Low Budget Companies]
+tags:             [Employee Management System, Open Source,Low Budget Companies]
 series:           "Software Development"
 location:         "Australia, NSW"
 website:          
