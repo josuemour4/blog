@@ -47,10 +47,7 @@ This project aims to offer an employee management tool for companies with a low 
 - **Open Source**: The project will be licensed as open source, allowing other companies and developers to contribute improvements and customizations.
 
 
-
-
-
-[![Augustus overlooking the clouds above Lorem Heights](/assets/images/Em03.jpg "Intimate Rivers on the Jungle Cruise by Bimini Boo")]({% link _people/josuemoura.md %}){:.image.fit}
+[![Picture to illustrate the improvement of a workplace after the Employee Management System implantation](/assets/images/Em03.jpg "Picture to illustrate the improvement of a workplace after the Employee Management System implantation")](/blog{% link _people/josuemoura.md %}){:.image.fit}
 
 
 ***Project objectives***:
