@@ -50,7 +50,7 @@ This project aims to offer an employee management tool for companies with a low 
 
 
 
-[![Augustus overlooking the clouds above Lorem Heights](/assets/images/Em03.jpg "Intimate Rivers on the Jungle Cruise by Bimini Boo")]({% link _people/augustus.md %}){:.image.fit}
+[![Augustus overlooking the clouds above Lorem Heights](/assets/images/Em03.jpg "Intimate Rivers on the Jungle Cruise by Bimini Boo")]({% link _people/josuemoura.md %}){:.image.fit}
 
 
 ***Project objectives***:
