@@ -11,7 +11,7 @@ banner:
   button_text:        "Jouse Moura"
 images:
   banner:
-    file:             "josue01.jpeg"
+    file:             "josue04.jpg"
     alt_text:         "Josue picture at work in a normal day."
     title:            "photo: Annie Spratt, https://unsplash.com/photos/DYROsn8AyDI/"
 # NOTE: features are set in `/_data/features.yml`
