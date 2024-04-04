@@ -49,7 +49,7 @@ I am the only person behind all the work, so the estimated time for completing t
 - **Open Source**: The project will be licensed as open source, allowing other companies and developers to contribute improvements and customizations.
 
 
-[![Picture to illustrate the improvement of a workplace after the Employee Management System implantation](/blog/assets/images/EM04.jpg "Picture to illustrate the improvement of a workplace after the Employee Management System implantation")](/blog{% link _people/josuemoura.md %}){:.image.fit}
+[![Picture to illustrate the improvement of a workplace after the Employee Management System implantation](/blog/assets/images/EM03.jpg "Picture to illustrate the improvement of a workplace after the Employee Management System implantation")](/blog{% link _people/josuemoura.md %}){:.image.fit}
 
 
 ***Project objectives***:
