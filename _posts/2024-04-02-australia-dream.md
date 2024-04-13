@@ -3,7 +3,7 @@ layout: post
 author: Josue Moura
 title:  "Australia Dream!"
 subtitle: "Should I ask? where I did the mistake?"
-date:   2024-04-02 10:43:28 +1100
+date:   2024-04-13 23:26:15 +1100
 last_modified_at: 2024-04-03 10:43:28
 categories: Travel exchange
 tags: [australia, blog, dream, exchange]
@@ -53,3 +53,8 @@ Upon setting foot on Australian soil, a wave of intoxicating emotions overcame m
 Soon after disembarking the plane, my first steps took me to a huge line that formed in front of the immigration agent. There were 42 hours of flight time, with connections in Dubai and Bangkok. So a few more minutes wouldn't make a difference. During this break, I had the opportunity to observe my surroundings, meeting several interesting people, including other Brazilians not too far away. In the blink of an eye, it was my turn to present the documents and officially enter Australia.
 
 In the airport parking lot, someone was already waiting for me to take me to the house where I would spend a total of four weeks. The residence was shared with three other people, all Brazilian, and like me, full of expectations.
+
+## First Monthes
+![Few students from BBC.]({{site.image_path}}josueBBC.png "Freshwater beach"){:.small.image.right}
+
+Two days after my arrival in Australia, I had my first day of classes at Bridge Business College, on February 5, 2018. After a simple screening, I was placed in an intermediate level room, with five other students of different nationalities, including Brazil. , Japan, South Korea, Spain and Slovakia. The course lasted four months; unfortunately, this period was not enough to see progress in my level of English.
