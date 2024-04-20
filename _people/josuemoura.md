@@ -1,5 +1,5 @@
 ---
-handle:           josue
+handle:           Josue Moura
 name:             Josue Moura
 blurb:            ""
 title:            "Author: Josue Moura"  # used for the HTML page title tag
