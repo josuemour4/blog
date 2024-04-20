@@ -3,7 +3,7 @@ layout: post
 author: Josue Moura
 title:  "Australia Dream!"
 subtitle: "Should I ask? where I did the mistake?"
-date:   2024-04-13 23:26:15 +1100
+date:   2024-04-20 19:07:05 +1100
 last_modified_at: 2024-04-03 10:43:28
 categories: Travel exchange
 tags: [australia, blog, dream, exchange]
@@ -57,4 +57,10 @@ In the airport parking lot, someone was already waiting for me to take me to the
 ## First Monthes
 ![Few students from BBC.]({{site.image_path}}josueBBC.png "Freshwater beach"){:.small.image.right}
 
-Two days after my arrival in Australia, I had my first day of classes at Bridge Business College, on February 5, 2018. After a simple screening, I was placed in an intermediate level room, with five other students of different nationalities, including Brazil. , Japan, South Korea, Spain and Slovakia. The course lasted four months; unfortunately, this period was not enough to see progress in my level of English.
+On February 5, 2018, two days after my arrival in Australia, I had my first day of classes at Bridge Business College. After a simple screening, I was placed in an intermediate level class, with five other students of different nationalities, including Japan, South Korea, Spain, Slovakia and Brazil.
+
+Living with people from such diverse cultures was a unique experience for me. Despite being the oldest in the room, my enthusiasm was evident. I felt my eyes sparkle as I observed my classmates. It truly was an amazing experience.
+
+The teacher leading the classes was Australian, a wonderful person who understood the challenges of learning a new language, as she was proficient in another language besides English. I believe this experience contributed to her exceptional skill as a professional, as she demonstrated great patience in explaining and utilized a variety of methods to teach the content effectively.
+
+The course lasted for 4 months, with classes from 8:30 AM to 1:30 PM. During the initial months, I made sure to seize every opportunity to improve my English, whether in the classroom, on excursions, or anywhere else I could practice the language. After all, Portuguese was no longer predominant around me, and English intertwined with other languages, such as Mandarin, which was very prevalent in the Sydney region, especially in the suburb of Artamon, where I lived.
