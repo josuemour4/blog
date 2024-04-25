@@ -4,7 +4,7 @@ author: Josue Moura
 title:  "Australia Dream!"
 subtitle: "Should I ask? where I did the mistake?"
 date:   2024-04-20 19:07:05 +1100
-last_modified_at: 2024-04-03 10:43:28
+last_modified_at: 2024-04-25 11:45:33
 categories: Travel exchange
 tags: [australia, blog, dream, exchange]
 location: "Sydney - Australia"
@@ -63,4 +63,48 @@ Living with people from such diverse cultures was a unique experience for me. De
 
 The teacher leading the classes was Australian, a wonderful person who understood the challenges of learning a new language, as she was proficient in another language besides English. I believe this experience contributed to her exceptional skill as a professional, as she demonstrated great patience in explaining and utilized a variety of methods to teach the content effectively.
 
-The course lasted for 4 months, with classes from 8:30 AM to 1:30 PM. During the initial months, I made sure to seize every opportunity to improve my English, whether in the classroom, on excursions, or anywhere else I could practice the language. After all, Portuguese was no longer predominant around me, and English intertwined with other languages, such as Mandarin, which was very prevalent in the Sydney region, especially in the suburb of Artamon, where I lived.
+The course lasted for 4 months, with classes from 8:30 AM to 1:30 PM. During the initial months, I made sure to seize every opportunity to improve my English, whether in the classroom, on excursions, or anywhere else I could practice the language. After all, Portuguese was no longer predominant around me, and English intertwined with other languages, such as Mandarin, which was very common in the Sydney region, especially in the suburb of Artamon, where I lived.
+
+# Extended visa
+
+After the first five months, my student visa was extended.
+
+
+<div class="container">
+  <div class="mySlides">
+    <div class="numbertext">1 / 6</div>
+    <img class="myImgSlides" src="/blog/assets/images/sharehouse/sharehouse1.jpg" style="width:100%" alt="1">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">2 / 6</div>
+    <img class="myImgSlides" src="/blog/assets/images/sharehouse/sharehouse2.jpg" style="width:100%" alt="2">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">3 / 6</div>
+    <img class="myImgSlides" src="/blog/assets/images/sharehouse/sharehouse3.jpg" style="width:100%" alt="3">
+  </div>
+    
+  <div class="mySlides">
+    <div class="numbertext">4 / 6</div>
+    <img class="myImgSlides" src="/blog/assets/images/sharehouse/sharehouse4.jpg" style="width:100%" alt="4">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">5 / 6</div>
+    <img class="myImgSlides" src="/blog/assets/images/sharehouse/sharehouse5.jpg" style="width:100%" alt="5">
+  </div>
+    
+  <div class="mySlides">
+    <div class="numbertext">6 / 6</div>
+    <img class="myImgSlides" src="/blog/assets/images/sharehousesharehouse6.jpg" style="width:100%" alt="6">
+  </div>
+    
+  <a class="prev" onclick="plusSlides(-1)">❮</a>
+  <a class="next" onclick="plusSlides(1)">❯</a>
+
+
+<!-- Very cool thing to see after 
+<canvas id="canvas" style="border: 2px solid black"></canvas>
+-->
