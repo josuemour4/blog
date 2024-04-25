@@ -98,7 +98,7 @@ After the first five months, my student visa was extended.
     
   <div class="mySlides">
     <div class="numbertext">6 / 6</div>
-    <img class="myImgSlides" src="/blog/assets/images/sharehousesharehouse6.jpg" style="width:100%" alt="6">
+    <img class="myImgSlides" src="/blog/assets/images/sharehouse/sharehouse6.jpg" style="width:100%" alt="6">
   </div>
     
   <a class="prev" onclick="plusSlides(-1)">❮</a>
