@@ -67,7 +67,9 @@ The course lasted for 4 months, with classes from 8:30 AM to 1:30 PM. During the
 
 # Extended visa
 
-After the first five months, my student visa was extended.
+After five months, I renewed my student visa and decided to enroll in the Leadership and Management course offered by Australia Pacific College. The purpose of this course was to expand my vocabulary, enrich my professional CV and improve my team management and leadership skills.
+
+Lasting two years, the course provided study materials to serve as a foundation, in addition to guiding students in their own research. Classes were in person, held once a week, lasting four hours each.
 
 
 <div class="container">
