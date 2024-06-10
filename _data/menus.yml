@@ -32,6 +32,12 @@ sidebar:
     title:      Projects
     identifier: projects
     weight:     40
+
+    - url: /aunzs3000
+    title: AS/NZS 3000:2018
+    identifier: aunzs3000
+    weight: 41
+    
   - url:        /blog/people
     title:      Authors
     identifier: authors
