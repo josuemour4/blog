@@ -47,7 +47,7 @@ The exchange company I used at the time was 2be Study. The service, in general, 
 
 
 ## On Australian soil
-![A dreaming picture to ilustrate it.]({{site.image_path}}Dreaming.jpg "Who does want to fly?"){:.small.image.right}
+![A dreaming picture to ilustrate it.]({{site.image_path}}Dreaming.jpg "Who doesn't want to fly?"){:.small.image.right}
 Upon setting foot on Australian soil, a wave of intoxicating emotions overcame me. Joy overflowed in my heart, and with each step, the desire to live every second of this unique experience intensified. The vastness of the country opened up before me, an irresistible invitation to explore new horizons and immerse myself in a rich and vibrant culture.
 
 Soon after disembarking the plane, my first steps took me to a huge line that formed in front of the immigration agent. There were 42 hours of flight time, with connections in Dubai and Bangkok. So a few more minutes wouldn't make a difference. During this break, I had the opportunity to observe my surroundings, meeting several interesting people, including other Brazilians not too far away. In the blink of an eye, it was my turn to present the documents and officially enter Australia.
