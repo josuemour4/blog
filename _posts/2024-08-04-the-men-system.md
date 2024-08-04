@@ -49,3 +49,4 @@ Examples of the parts of the MEN system of earthing are shown in Figures 5.1 and
 ![5.1.]({{site.image_path}}fig_5_2.png "ALTERNATIVE EARTHING ARRANGEMENT IN AN OWNER OR USER OPERATED SUPPLY SUBSTATION INSTALLATION"){:.small.image}
 <p align="center">5.2</p>
 
+test
