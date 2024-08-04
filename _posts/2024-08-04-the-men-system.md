@@ -42,7 +42,7 @@ F) **Equipotential bonding of extraneous conductive and other parts as required.
 
 Examples of the parts of the MEN system of earthing are shown in Figures 5.1 and 5.2.
 
-![5.1.]({{site.image_path}}/blog/assets/images/images/capstone/mensystem/fig_5_1.png "MULTIPLE EARTHED NEUTRAL (MEN) SYSTEM OF EARTHING—GENERAL ARRANGEMENT PEN DISTRIBUTION/TN-C-S"){:.small.image}
+![5.1.]({{site.image_path}}/blog/assets/images/capstone/mensystem/fig_5_1.png "MULTIPLE EARTHED NEUTRAL (MEN) SYSTEM OF EARTHING—GENERAL ARRANGEMENT PEN DISTRIBUTION/TN-C-S"){:.small.image}
 <p align="center">5.1</p> 
 
 ![5.1.]({{site.image_path}}/blog/assets/images/images/capstone/mensystem/fig_5_1.png "ALTERNATIVE EARTHING ARRANGEMENT IN AN OWNER OR USER OPERATED SUPPLY SUBSTATION INSTALLATION"){:.small.image}
