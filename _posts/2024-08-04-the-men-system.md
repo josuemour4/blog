@@ -45,5 +45,19 @@ Examples of the parts of the MEN system of earthing are shown in Figures 5.1 and
 ![5.1]({{site.image_path}}/capstone/mensystem/fig_5_1.png "MULTIPLE EARTHED NEUTRAL (MEN) SYSTEM OF EARTHING—GENERAL ARRANGEMENT PEN DISTRIBUTION/TN-C-S"){:.small.image}
 <p align="center">5.1</p> 
 
-![5.1]({{site.image_path}}/capstone/mensystem/fig_5_2.png "ALTERNATIVE EARTHING ARRANGEMENT IN AN OWNER OR USER OPERATED SUPPLY SUBSTATION INSTALLATION"){:.small.image}
+![5.2]({{site.image_path}}/capstone/mensystem/fig_5_2.png "ALTERNATIVE EARTHING ARRANGEMENT IN AN OWNER OR USER OPERATED SUPPLY SUBSTATION INSTALLATION"){:.small.image}
 <p align="center">5.2</p>
+
+**Outbuildings**
+
+In the book AS/NZS 3000:2018 the definition for Outbuildings is:
+
+***Outbuilding – Individual – Clause 1.4.88***
+
+“A structure containing a switchboard that is separated by an area of land from the structure containing the switchboard that supplies it.”
+- Example: A building (such as a shed or garage) that has its own electrical distribution panel and is separated by a strip of land from the main building that supplies electricity to it.
+
+***Outbuilding – Combined – Clause 1.4.89***
+
+“Any number of structures installed or built on the same foundation, or sharing conductive metal roofing or conductive metal frames, with more than one electrical supply, and separated by an area of land from another structure that contains the switchboard from which those electrical supplies are obtained.”
+- Example: Several buildings that are on the same foundation or that share a roof or conductive metal structures, with more than one electricity supply, and that are separated by a piece of land from another building that has the distribution panel from which the electricity is supplied.
