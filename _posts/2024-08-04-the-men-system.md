@@ -3,8 +3,7 @@ layout: post
 author: Josue Moura
 title:  "The MEN system"
 subtitle: "Getting ready for the test!"
-date:   2024-04-02 10:43:28 +1100
-last_modified_at: 2024-04-25 11:45:33
+date:   2024-04-25 10:43:28 +1100
 categories: 3000:2018 MEN
 tags: [australia, NSW, capstone, preparation]
 location: "Sydney - Australia"
