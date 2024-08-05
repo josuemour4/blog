@@ -48,6 +48,9 @@ Examples of the parts of the MEN system of earthing are shown in Figures 5.1 and
 ![5.2]({{site.image_path}}/capstone/mensystem/fig_5_2.png "ALTERNATIVE EARTHING ARRANGEMENT IN AN OWNER OR USER OPERATED SUPPLY SUBSTATION INSTALLATION"){:.small.image}
 <p align="center">5.2</p>
 
+![5.3]({{site.image_path}}/capstone/mensystem/fig_5_3.png "EXAMPLES OF EARTHING ARRANGEMENTS (CLAUSES 5.5.2.1 AND 5.5.2.2.3)"){:.small.image}
+<p align="center">5.3</p>
+
 **Outbuildings**
 
 In the book AS/NZS 3000:2018 the definition for Outbuildings is:
