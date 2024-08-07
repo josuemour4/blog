@@ -65,8 +65,6 @@ According to AS/NZS 3000:2018, the definition for "outbuilding" is:
 ![5.4]({{site.image_path}}/capstone/mensystem/outbuilding_fig_5_4.png "EXAMPLE OF EARTHING OF AN INDIVIDUAL OUTBUILDING [CLAUSE 5.5.3.1(a)]"){:.small.image}
 <p align="center">5.4</p> 
 
-![Example 01]({{site.image_path}}/capstone/mensystem/separete_example.png "EXAMPLE OF SEPARETE"){:.small.image}
-
 ***Outbuilding – Combined – Clause 1.4.89***
 
 “Any number of structures installed or built on the same foundation, or sharing conductive metal roofing or conductive metal frames, with more than one electrical supply, and separated by an area of land from another structure that contains the switchboard from which those electrical supplies are obtained.”
@@ -77,3 +75,19 @@ The earthing system in a separate MEN installation must be connected to the neut
 
 ![5.5]({{site.image_path}}/capstone/mensystem/outbuilding_fig_5_5.png "FIGURE 5.5 EXAMPLE OF EARTHING OF COMBINED OUTBUILDINGS [CLAUSE 5.5.3.1(b)]"){:.small.image}
 <p align="center">5.5</p> 
+
+**What does this mean?**
+
+ **“connected to a protected earthing conductor”** means that with the active and neutral conductors, a protective earth conductor is fed to the distribution board.  Because a protective earth is fed to the distribution board there will be no MEN link, no main earth and no earth stake at the distribution board.
+
+ **“separate MEN installation”** means that when a sub main is fed to the distribution board no protective earth is fed with the sub main to the distribution board.  If there is no protective earth fed to the distribution board then the distribution board must have an MEN link, a main earthing conductor and an earth electrode.  The sub main neutral is now a PEN (a neutral under normal conditions but a protective earth under fault conditions).
+
+![Example 01]({{site.image_path}}/capstone/mensystem/separete_example.png "EXAMPLE OF SEPARETE"){:.small.image}
+
+![Example 01]({{site.image_path}}/capstone/mensystem/separete_example2.png "EXAMPLE OF SEPARETE"){:.small.image}
+
+Under these conditions there is a further requirement from Clause 5.5.3.1 (c) (v) that says if a distribution board is fed from a main switchboard via another outbuilding’s distribution board then the PEN of the second outbuilding distribution board must not rely on the terminals of the neutral link/bar at the first outbuilding’s distribution board, therefore the PEN is usually soldered to the sub main neutral of the first outbuilding’s distribution board.
+
+**Note 1:** PENs are not connected (ie: soldered) to other neutrals at any time at the main switchboard!
+
+**Note 2:** AS/NZS 3000 clause 2.10.5.4 says **“The terminals for the connection of the MEN connection and for the main neutral conductor shall be legibly and indelibly marked at the main neutral bar.”**
