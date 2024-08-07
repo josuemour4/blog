@@ -53,14 +53,25 @@ Examples of the parts of the MEN system of earthing are shown in Figures 5.1 and
 
 **Outbuildings**
 
-In the book AS/NZS 3000:2018 the definition for Outbuildings is:
+First, let's look at the definition of "outbuilding" in the context of the MEN system.
+
+According to AS/NZS 3000:2018, the definition for "outbuilding" is: 
 
 ***Outbuilding – Individual – Clause 1.4.88***
 
 “A structure containing a switchboard that is separated by an area of land from the structure containing the switchboard that supplies it.”
 - Example: A building (such as a shed or garage) that has its own electrical distribution panel and is separated by a strip of land from the main building that supplies electricity to it.
 
+![5.4]({{site.image_path}}outbuilding_fig_5_4.png "EXAMPLE OF EARTHING OF AN INDIVIDUAL OUTBUILDING [CLAUSE 5.5.3.1(a)]"){:.small.image}
+<p align="center">5.4</p> 
+
 ***Outbuilding – Combined – Clause 1.4.89***
 
 “Any number of structures installed or built on the same foundation, or sharing conductive metal roofing or conductive metal frames, with more than one electrical supply, and separated by an area of land from another structure that contains the switchboard from which those electrical supplies are obtained.”
+
+The earthing system in a separate MEN installation must be connected to the neutral conductor of the sub-supply supplying the external building. In this case, the neutral conductor of the sub-supply supplying the external building functions as a combined protective earthing and neutral (PEN) conductor.
+
 - Example: Several buildings that are on the same foundation or that share a roof or conductive metal structures, with more than one electricity supply, and that are separated by a piece of land from another building that has the distribution panel from which the electricity is supplied.
+
+![5.5]({{site.image_path}}outbuilding_fig_5_5.png "FIGURE 5.5 EXAMPLE OF EARTHING OF COMBINED OUTBUILDINGS [CLAUSE 5.5.3.1(b)]"){:.small.image}
+<p align="center">5.5</p> 
