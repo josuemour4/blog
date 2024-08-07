@@ -65,6 +65,8 @@ According to AS/NZS 3000:2018, the definition for "outbuilding" is:
 ![5.4]({{site.image_path}}/capstone/mensystem/outbuilding_fig_5_4.png "EXAMPLE OF EARTHING OF AN INDIVIDUAL OUTBUILDING [CLAUSE 5.5.3.1(a)]"){:.small.image}
 <p align="center">5.4</p> 
 
+![Example 01]({{site.image_path}}/capstone/mensystem/separete_example.png "EXAMPLE OF SEPARETE"){:.small.image}
+
 ***Outbuilding – Combined – Clause 1.4.89***
 
 “Any number of structures installed or built on the same foundation, or sharing conductive metal roofing or conductive metal frames, with more than one electrical supply, and separated by an area of land from another structure that contains the switchboard from which those electrical supplies are obtained.”
