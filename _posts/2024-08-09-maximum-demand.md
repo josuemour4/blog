@@ -26,3 +26,17 @@ In the book AS/NZS 3000:2018 the following statement is made:
 1.6.3: The maximum demand of an electrical installation shall be determined, taking account of the capacity, physical distribution and intended use of electrical equipment in the electrical installation and the manner in which the present requirements might vary.
 
 <i>Note</i>: <u>Clause 2.2.2</u> contains acceptable methods of determining maximum demand.
+
+Clause 2.2.2: The maximum demand in consumer mains, submains and final subcircuits, taking account of the physical distribution and intended usage of electrical equipment in the electrical installation and the manner in which the present requirements might vary, shall be determined using one of the methods set out in Items (a) to (d). 
+
+a. Calculation  
+b. Assessment  
+c. Measurement  
+d. Limitation  
+
+The guidance for calculating maximum demand is detailed in Appendix C.
+
+Table C1 is used for single and domestic installations.
+
+Table C2 is used for non-domestic installations.
+
