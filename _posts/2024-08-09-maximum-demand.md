@@ -15,3 +15,14 @@ images:
     caption:      "Maximum Demand"
     title:        "Maximum Demand"
 ---
+
+Finally, I’m going to start writing about maximum demand. As I mentioned in my previous post, I’m still waiting for Fair Skills to tell me if I’ll need to take the aptitude test. If that happens, I want to be as prepared as I have been in the past. However, this time is different; I’m a father now. But what’s really making it hard for me to concentrate is not fatherhood, but the fact that I’ve been working for 7 years without a vacation, that I was intentionally harmed by my last employer, and that I have a number of other problems that have accumulated over the years.
+
+**Maximum Demand**
+
+In the book AS/NZS 3000:2018 the following statement is made:
+
+
+1.6.3: The maximum demand of an electrical installation shall be determined, taking account of the capacity, physical distribution and intended use of electrical equipment in the electrical installation and the manner in which the present requirements might vary.
+
+<i>Note</i>: <u>Clause 2.2.2</u> contains acceptable methods of determining maximum demand.
