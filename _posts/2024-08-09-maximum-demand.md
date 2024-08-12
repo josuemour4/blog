@@ -40,3 +40,80 @@ Table C1 is used for single and domestic installations.
 
 Table C2 is used for non-domestic installations.
 
+
+<div class="table-wrapper">
+                            <table class="alt">
+                              <thead>
+                                <tr>
+                                  <th>Load group</th>
+                                  <th>Number</th>
+                                  <th>Equipments</th>
+                                </tr>
+                              </thead>
+                              <tbody>
+                                <tr>
+                                  <td><span class="image fit"><img src= "assets/images/capstone/md/loadgroup_light.png" alt="" /></span>
+                                    -> A
+                                  </td>
+                                  <td>24</td>
+                                  <td>Lights</td>
+                                </tr>
+                                <tr>
+                                  <td><span class="image fit"><img src= "assets/images/capstone/md/loadgroup_light.png" alt="" /></span>
+                                    -> A</td>
+                                  <td>3</td>
+                                  <td>2x36W fluorescent lights @0.38A each fitting</td>
+                                </tr>
+                                <tr>
+                                  <td></td>
+                                  <td>4</td>
+                                  <td>80W ceiling fans</td>
+                                </tr>
+                                <tr>
+                                  <td></td>
+                                  <td>2</td>
+                                  <td>150W external lights</td>
+                                </tr>
+                                <tr>
+                                  <td></td>
+                                  <td>2</td>
+                                  <td>10A single Socket outlet</td>
+                                </tr>
+                                <tr>
+                                  <td></td>
+                                  <td>21</td>
+                                  <td>10A double Socket outlet</td>
+                                </tr>
+                                <tr>
+                                  <td></td>
+                                  <td>1</td>
+                                  <td>15A Socket outlet</td>
+                                </tr>
+                                <tr>
+                                  <td></td>
+                                  <td>1</td>
+                                  <td>20A Socket outlet</td>
+                                </tr>
+                                <tr>
+                                  <td></td>
+                                  <td>1</td>
+                                  <td>Clothes dry @13A (has a 15A plug)</td>
+                                </tr>
+                                <tr>
+                                  <td></td>
+                                  <td>1</td>
+                                  <td>Washing machine @ 6A (has a 10A plug)</td>
+                                </tr>
+                                <tr>
+                                  <td></td>
+                                  <td>1</td>
+                                  <td>2.3Kw HWS - storage type</td>
+                                </tr>
+                                <tr>
+                                  <td></td>
+                                  <td>1</td>
+                                  <td>7.6Kw range</td>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </div>
