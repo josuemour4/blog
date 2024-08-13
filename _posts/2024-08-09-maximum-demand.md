@@ -53,14 +53,12 @@ Table C2 is used for non-domestic installations.
                               <tbody>
                                 <tr>
                                   <td><span class="image fit"><img src= "assets/images/capstone/md/loadgroup_light.png" alt="" /></span>
-                                    -> A
                                   </td>
                                   <td>24</td>
                                   <td>Lights</td>
                                 </tr>
                                 <tr>
-                                  <td><span class="image fit"><img src= "assets/images/capstone/md/loadgroup_light.png" alt="" /></span>
-                                    -> A</td>
+                                  <td><span class="image fit"><img src= "assets/images/capstone/md/loadgroup_light.png" alt="" /></span></td>
                                   <td>3</td>
                                   <td>2x36W fluorescent lights @0.38A each fitting</td>
                                 </tr>
