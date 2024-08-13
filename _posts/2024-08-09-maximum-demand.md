@@ -54,65 +54,65 @@ Table C2 is used for non-domestic installations.
                                 <tr>
                                   <td><span class="image fit"><img src= "assets/images/capstone/md/loadgroup_light.png" alt="" /></span>
                                   </td>
-                                  <td>24</td>
-                                  <td>Lights</td>
+                                  <td style="text-align: center; vertical-align: middle;">24</td>
+                                  <td style="text-align: center; vertical-align: middle;">Lights</td>
                                 </tr>
                                 <tr>
                                   <td><span class="image fit"><img src= "assets/images/capstone/md/loadgroup_light.png" alt="" /></span></td>
-                                  <td>3</td>
-                                  <td>2x36W fluorescent lights @0.38A each fitting</td>
+                                  <td style="text-align: center; vertical-align: middle;">3</td>
+                                  <td style="text-align: center; vertical-align: middle;">2x36W fluorescent lights @0.38A each fitting</td>
                                 </tr>
                                 <tr>
                                   <td><span class="image fit"><img src= "assets/images/capstone/md/loadgroup_light_fan.png" alt="" />
                                   </span></td>
-                                  <td>4</td>
-                                  <td>80W ceiling fans</td>
+                                  <td style="text-align: center; vertical-align: middle;">4</td>
+                                  <td style="text-align: center; vertical-align: middle;">80W ceiling fans</td>
                                 </tr>
                                 <tr>
                                   <td><span class="image fit"><img src= "assets/images/capstone/md/loadgroup_light.png" alt="" /></span>
                                   </td>
-                                  <td>2</td>
-                                  <td>150W external lights</td>
+                                  <td style="text-align: center; vertical-align: middle;">2</td>
+                                  <td style="text-align: center; vertical-align: middle;">150W external lights</td>
                                 </tr>
                                 <tr>
                                   <td><span class="image fit"><img src= "assets/images/capstone/md/socketoutlet.png" alt="" /></span></td>
-                                  <td>2</td>
-                                  <td>10A single Socket outlet</td>
+                                  <td style="text-align: center; vertical-align: middle;">2</td>
+                                  <td style="text-align: center; vertical-align: middle;">10A single Socket outlet</td>
                                 </tr>
                                 <tr>
                                   <td><span class="image fit"><img src= "assets/images/capstone/md/socketoutlet.png" alt="" /></span></td>
-                                  <td>21</td>
-                                  <td>10A double Socket outlet</td>
+                                  <td style="text-align: center; vertical-align: middle;">21</td>
+                                  <td style="text-align: center; vertical-align: middle;">10A double Socket outlet</td>
                                 </tr>
                                 <tr>
                                   <td><span class="image fit"><img src= "assets/images/capstone/md/socketoutlet2.png" alt="" /></span></td>
-                                  <td>1</td>
-                                  <td>15A Socket outlet</td>
+                                  <td style="text-align: center; vertical-align: middle;">1</td>
+                                  <td style="text-align: center; vertical-align: middle;">15A Socket outlet</td>
                                 </tr>
                                 <tr>
                                   <td><span class="image fit"><img src= "assets/images/capstone/md/socketoutlet3.png" alt="" /></span></td>
-                                  <td>1</td>
-                                  <td>20A Socket outlet</td>
+                                  <td style="text-align: center; vertical-align: middle;">1</td>
+                                  <td style="text-align: center; vertical-align: middle;">20A Socket outlet</td>
                                 </tr>
                                 <tr>
                                   <td><span class="image fit"><img src= "assets/images/capstone/md/appliancemorethan10a.png" alt="" /></span></td>
-                                  <td>1</td>
-                                  <td>Clothes dry @13A (has a 15A plug)</td>
+                                  <td style="text-align: center; vertical-align: middle;">1</td>
+                                  <td style="text-align: center; vertical-align: middle;">Clothes dry @13A (has a 15A plug)</td>
                                 </tr>
                                 <tr>
                                   <td><span class="image fit"><img src= "assets/images/capstone/md/socketoutlet.png" alt="" /></span></td>
-                                  <td>1</td>
-                                  <td>Washing machine @ 6A (has a 10A plug)</td>
+                                  <td style="text-align: center; vertical-align: middle;">1</td>
+                                  <td style="text-align: center; vertical-align: middle;">Washing machine @ 6A (has a 10A plug)</td>
                                 </tr>
                                 <tr>
                                   <td><span class="image fit"><img src= "assets/images/capstone/md/SWH.png" alt="" /></span></td>
-                                  <td>1</td>
-                                  <td>2.3Kw HWS - storage type</td>
+                                  <td style="text-align: center; vertical-align: middle;">1</td>
+                                  <td style="text-align: center; vertical-align: middle;">2.3Kw HWS - storage type</td>
                                 </tr>
                                 <tr>
                                   <td><span class="image fit"><img src= "assets/images/capstone/md/appliancemorethan10a.png" alt="" /></span></td>
-                                  <td>1</td>
-                                  <td>7.6Kw range</td>
+                                  <td style="text-align: center; vertical-align: middle;">1</td>
+                                  <td style="text-align: center; vertical-align: middle;">7.6Kw range</td>
                                 </tr>
                               </tbody>
                             </table>
