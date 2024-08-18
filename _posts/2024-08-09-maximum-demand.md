@@ -16,6 +16,13 @@ images:
     title:        "Maximum Demand"
 ---
 
+<style>
+  .ct {
+    text-align: center;
+    vertical-align: middle;
+  }
+</style>
+
 Finally, I’m going to start writing about maximum demand. As I mentioned in my previous post, I’m still waiting for Fair Skills to tell me if I’ll need to take the aptitude test. If that happens, I want to be as prepared as I have been in the past. However, this time is different; I’m a father now. But what’s really making it hard for me to concentrate is not fatherhood, but the fact that I’ve been working for 7 years without a vacation, that I was intentionally harmed by my last employer, and that I have a number of other problems that have accumulated over the years.
 
 **Maximum Demand**
@@ -54,65 +61,107 @@ Table C2 is used for non-domestic installations.
                                 <tr>
                                   <td><span class="image fit"><img src= "assets/images/capstone/md/loadgroup_light.png" alt="" /></span>
                                   </td>
-                                  <td style="text-align: center; vertical-align: middle;">24</td>
-                                  <td style="text-align: center; vertical-align: middle;">Lights</td>
+                                  <td class="ct">24</td>
+                                  <td class="ct">Lights</td>
                                 </tr>
                                 <tr>
                                   <td><span class="image fit"><img src= "assets/images/capstone/md/loadgroup_light.png" alt="" /></span></td>
-                                  <td style="text-align: center; vertical-align: middle;">3</td>
-                                  <td style="text-align: center; vertical-align: middle;">2x36W fluorescent lights @0.38A each fitting</td>
+                                  <td class="ct">3</td>
+                                  <td class="ct">2x36W fluorescent lights @0.38A each fitting</td>
                                 </tr>
                                 <tr>
                                   <td><span class="image fit"><img src= "assets/images/capstone/md/loadgroup_light_fan.png" alt="" />
                                   </span></td>
-                                  <td style="text-align: center; vertical-align: middle;">4</td>
-                                  <td style="text-align: center; vertical-align: middle;">80W ceiling fans</td>
+                                  <td class="ct">4</td>
+                                  <td class="ct">80W ceiling fans</td>
                                 </tr>
                                 <tr>
                                   <td><span class="image fit"><img src= "assets/images/capstone/md/loadgroup_light.png" alt="" /></span>
                                   </td>
-                                  <td style="text-align: center; vertical-align: middle;">2</td>
-                                  <td style="text-align: center; vertical-align: middle;">150W external lights</td>
+                                  <td class="ct">2</td>
+                                  <td class="ct">150W external lights</td>
                                 </tr>
                                 <tr>
                                   <td><span class="image fit"><img src= "assets/images/capstone/md/socketoutlet.png" alt="" /></span></td>
-                                  <td style="text-align: center; vertical-align: middle;">2</td>
-                                  <td style="text-align: center; vertical-align: middle;">10A single Socket outlet</td>
+                                  <td class="ct">2</td>
+                                  <td class="ct">10A single Socket outlet</td>
                                 </tr>
                                 <tr>
                                   <td><span class="image fit"><img src= "assets/images/capstone/md/socketoutlet.png" alt="" /></span></td>
-                                  <td style="text-align: center; vertical-align: middle;">21</td>
-                                  <td style="text-align: center; vertical-align: middle;">10A double Socket outlet</td>
+                                  <td class="ct">21</td>
+                                  <td class="ct">10A double Socket outlet</td>
                                 </tr>
                                 <tr>
                                   <td><span class="image fit"><img src= "assets/images/capstone/md/socketoutlet2.png" alt="" /></span></td>
-                                  <td style="text-align: center; vertical-align: middle;">1</td>
-                                  <td style="text-align: center; vertical-align: middle;">15A Socket outlet</td>
+                                  <td class="ct">1</td>
+                                  <td class="ct">15A Socket outlet</td>
                                 </tr>
                                 <tr>
                                   <td><span class="image fit"><img src= "assets/images/capstone/md/socketoutlet3.png" alt="" /></span></td>
-                                  <td style="text-align: center; vertical-align: middle;">1</td>
-                                  <td style="text-align: center; vertical-align: middle;">20A Socket outlet</td>
+                                  <td class="ct">1</td>
+                                  <td class="ct">20A Socket outlet</td>
                                 </tr>
                                 <tr>
                                   <td><span class="image fit"><img src= "assets/images/capstone/md/appliancemorethan10a.png" alt="" /></span></td>
-                                  <td style="text-align: center; vertical-align: middle;">1</td>
-                                  <td style="text-align: center; vertical-align: middle;">Clothes dry @13A (has a 15A plug)</td>
+                                  <td class="ct">1</td>
+                                  <td class="ct">Clothes dry @13A (has a 15A plug)</td>
                                 </tr>
                                 <tr>
                                   <td><span class="image fit"><img src= "assets/images/capstone/md/socketoutlet.png" alt="" /></span></td>
-                                  <td style="text-align: center; vertical-align: middle;">1</td>
-                                  <td style="text-align: center; vertical-align: middle;">Washing machine @ 6A (has a 10A plug)</td>
+                                  <td class="ct">1</td>
+                                  <td class="ct">Washing machine @ 6A (has a 10A plug)</td>
                                 </tr>
                                 <tr>
                                   <td><span class="image fit"><img src= "assets/images/capstone/md/SWH.png" alt="" /></span></td>
-                                  <td style="text-align: center; vertical-align: middle;">1</td>
-                                  <td style="text-align: center; vertical-align: middle;">2.3Kw HWS - storage type</td>
+                                  <td class="ct">1</td>
+                                  <td class="ct">2.3Kw HWS - storage type</td>
                                 </tr>
                                 <tr>
                                   <td><span class="image fit"><img src= "assets/images/capstone/md/appliancemorethan10a.png" alt="" /></span></td>
-                                  <td style="text-align: center; vertical-align: middle;">1</td>
-                                  <td style="text-align: center; vertical-align: middle;">7.6Kw range</td>
+                                  <td class="ct">1</td>
+                                  <td class="ct">7.6Kw range</td>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </div>
+
+<div class="table-wrapper">
+                            <table class="alt">
+                              <thead>
+                                <tr>
+                                  <th>LG</th>
+                                  <th>Description</th>
+                                  <th>Table C1 Description</th>
+                                  <th>Calculations</th>
+                                </tr>
+                              </thead>
+                              <tbody>
+                                <tr>
+                                  <td class="ct">a I</td>
+                                  <td class="ct">Lights</td>
+                                  <td><span class="image fit"><img src= "assets/images/capstone/md/LGdescription01.png" alt="" /></span></td>
+                                  <td class="ct">24+3+4+2 = 33pts<br />3 + 2=5 </td>
+                                </tr>
+                                <tr>
+                                  <td class="ct">b I</td>
+                                  <td class="ct">10A sockets</td>
+                                  <td><span class="image fit"><img src= "assets/images/capstone/md/LGdescription02.png" alt="" /></span></td>
+                                  <td class="ct">2+42+1 = 44pts <br />10+5+5=20A</td>
+                                </tr>
+                                <tr>
+                                  <td></td>
+                                  <td> </td>
+                                  <td></td>
+                                </tr>
+                                <tr>
+                                  <td></td>
+                                  <td></td>
+                                  <td></td>
+                                </tr>
+                                <tr>
+                                  <td></td>
+                                  <td></td>
+                                  <td></td>
                                 </tr>
                               </tbody>
                             </table>
