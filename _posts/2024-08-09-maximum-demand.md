@@ -166,6 +166,12 @@ Table C2 is used for non-domestic installations.
           <td><span class="image fit"><img src= "assets/images/capstone/md/LGdescription05.png" alt="" /></span></td>
           <td class="ct">2300/230=10A</td>
         </tr>
+        <tfoot>
+          <tr>
+            <td colspan="3"></td>
+            <td>73A</td>
+          </tr>
+        </tfoot>
       </tbody>
   </table>
 </div>
