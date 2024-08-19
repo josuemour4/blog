@@ -126,43 +126,46 @@ Table C2 is used for non-domestic installations.
                           </div>
 
 <div class="table-wrapper">
-                            <table class="alt">
-                              <thead>
-                                <tr>
-                                  <th>LG</th>
-                                  <th>Description</th>
-                                  <th>Table C1 Description</th>
-                                  <th>Calculations</th>
-                                </tr>
-                              </thead>
-                              <tbody>
-                                <tr>
-                                  <td class="ct">a I</td>
-                                  <td class="ct">Lights</td>
-                                  <td><span class="image fit"><img src= "assets/images/capstone/md/LGdescription01.png" alt="" /></span></td>
-                                  <td class="ct">24+3+4+2 = 33pts<br />3 + 2=5 </td>
-                                </tr>
-                                <tr>
-                                  <td class="ct">b I</td>
-                                  <td class="ct">10A sockets</td>
-                                  <td><span class="image fit"><img src= "assets/images/capstone/md/LGdescription02.png" alt="" /></span></td>
-                                  <td class="ct">2+42+1 = 44pts <br />10+5+5=20A</td>
-                                </tr>
-                                <tr>
-                                  <td></td>
-                                  <td> </td>
-                                  <td></td>
-                                </tr>
-                                <tr>
-                                  <td></td>
-                                  <td></td>
-                                  <td></td>
-                                </tr>
-                                <tr>
-                                  <td></td>
-                                  <td></td>
-                                  <td></td>
-                                </tr>
-                              </tbody>
-                            </table>
-                          </div>
+  <table class="alt">
+    <thead>
+      <tr>
+        <th>LG</th>
+        <th>Description</th>
+        <th>Table C1 Description</th>
+        <th>Calculations</th>
+      </tr>
+    </thead>
+    <tbody>
+        <tr>
+          <td class="ct">a I</td>
+          <td class="ct">Lights</td>
+          <td><span class="image fit"><img src= "assets/images/capstone/md/LGdescription01.png" alt="" /></span></td>
+          <td class="ct">24+3+4+2 = 33pts<br />3 + 2=5 </td>
+        </tr>
+        <tr>
+          <td class="ct">b I</td>
+          <td class="ct">10A sockets</td>
+          <td><span class="image fit"><img src= "assets/images/capstone/md/LGdescription02.png" alt="" /></span></td>
+          <td class="ct">2+42+1 = 44pts <br />10+5+5=20A</td>
+        </tr>
+        <tr>
+          <td class="ct">C</td>
+          <td class="ct">Range+Clothes dry</td>
+          <td><span class="image fit"><img src= "assets/images/capstone/md/LGdescription03.png" alt="" /></span></td>
+          <td class="ct">13A+(7600/230=33A)=46A <br />46*0.5=23A </td>
+        </tr>
+        <tr>
+          <td class="ct">B2/B3</td>
+          <td class="ct">15A and 20A sockets</td>
+          <td><span class="image fit"><img src= "assets/images/capstone/md/LGdescription04.png" alt="" /></span></td>
+          <td class="ct">15A</td>
+        </tr>
+        <tr>
+          <td class="ct">F</td>
+          <td class="ct">HWS</td>
+          <td><span class="image fit"><img src= "assets/images/capstone/md/LGdescription05.png" alt="" /></span></td>
+          <td class="ct">2300/230=10A</td>
+        </tr>
+      </tbody>
+  </table>
+</div>
