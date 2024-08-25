@@ -175,3 +175,90 @@ Table C2 is used for non-domestic installations.
       </tbody>
   </table>
 </div>
+
+Example of multiple domestic maximum demand.
+
+This example shows the maximum demand of the highest loaded phase in a block of 18 units, each with the following single-phase load:
+
+<div class="table-wrapper">
+  <table class="alt">
+    <thead>
+      <tr>
+        <th>LG</th>
+        <th>No.</th>
+        <th>Equipmente</th>
+      </tr>
+    </thead>
+    <tbody>
+        <tr>
+          <td class="ct"></td>
+          <td class="ct">24</td>
+          <td class="ct">Lighs</td>
+        </tr>
+        <tr>
+          <td class="ct"></td>
+          <td class="ct">22</td>
+          <td class="ct">10A Double GPO</td>
+        </tr>
+        <tr>
+          <td class="ct"></td>
+          <td class="ct">1</td>
+          <td class="ct">8Kw range</td>
+        </tr>
+        <tr>
+          <td class="ct"></td>
+          <td class="ct">2</td>
+          <td class="ct">Air Conditioner</td>
+        </tr>
+        <tr>
+          <td class="ct"></td>
+          <td class="ct">1</td>
+          <td class="ct">2.4Kw HWS(Storage type)</td>
+        </tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="table-wrapper">
+  <table class="alt">
+    <thead>
+      <tr>
+        <th>LG</th>
+        <th>No.</th>
+        <th>Equipmente</th>
+      </tr>
+    </thead>
+    <tbody>
+        <tr>
+          <td class="ct"></td>
+          <td class="ct">6</td>
+          <td class="ct">150w incandescent secutiy lights</td>
+        </tr>
+        <tr>
+          <td class="ct"></td>
+          <td class="ct">9</td>
+          <td class="ct">10A single GPO</td>
+        </tr>
+        <tr>
+          <td class="ct"></td>
+          <td class="ct">2</td>
+          <td class="ct">Clothes dryers @12A</td>
+        </tr>
+        <tr>
+          <td class="ct"></td>
+          <td class="ct">1</td>
+          <td class="ct">1ph motor @8A</td>
+        </tr>
+        <tr>
+          <td class="ct"></td>
+          <td class="ct">1</td>
+          <td class="ct">1ph motor @6A</td>
+        </tr>
+        <tr>
+          <td class="ct"></td>
+          <td class="ct">2</td>
+          <td class="ct">3ph lift motor @16A</td>
+        </tr>
+    </tbody>
+  </table>
+</div>
