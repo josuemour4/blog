@@ -262,3 +262,13 @@ This example shows the maximum demand of the highest loaded phase in a block of 
     </tbody>
   </table>
 </div>
+
+
+<div class="table-wrapper">
+  <table class=alt>
+    <thead>
+      <tr>
+      </tr>
+    </thead>
+  </table>
+</div>
