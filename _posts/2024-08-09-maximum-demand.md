@@ -191,34 +191,29 @@ This example shows the maximum demand of the highest loaded phase in a block of 
     </thead>
     <tbody>
         <tr>
-          <td class="ct"><span class="image fit"><img src= "assets/images/capstone/md/LGdescription06.png" alt="" /></span></td>
-          <td class="ct">6</td>
-          <td class="ct">150w incandescent secutiy lights</td>
+          <td class="ct">A1</td>
+          <td class="ct">24</td>
+          <td class="ct">Lighs</td>
         </tr>
         <tr>
-          <td class="ct"><span class="image fit"><img src= "assets/images/capstone/md/LGdescription07.png" alt="" /></td>
-          <td class="ct">9</td>
-          <td class="ct">10A single GPO</td>
+          <td class="ct">B1</td>
+          <td class="ct">22</td>
+          <td class="ct">10A Double GPO</td>
         </tr>
         <tr>
-          <td class="ct"><span class="image fit"><img src= "assets/images/capstone/md/LGdescription08.png" alt="" /></span></td>
-          <td class="ct">2</td>
-          <td class="ct">Clothes dryers @12A</td>
-        </tr>
-        <tr>
-          <td class="ct"><span class="image"><img src= "assets/images/capstone/md/LGdescription09.png" alt="" /></span></td>
+          <td class="ct">C</td>
           <td class="ct">1</td>
-          <td class="ct">1ph motor @8A</td>
+          <td class="ct">8Kw range</td>
         </tr>
         <tr>
-          <td class="ct"><span class="image"><img src= "assets/images/capstone/md/LGdescription09.png" alt="" /></span></td>
-          <td class="ct">1</td>
-          <td class="ct">1ph motor @6A</td>
-        </tr>
-        <tr>
-          <td class="ct"><span class="image"><img src= "assets/images/capstone/md/LGdescription10.png" alt="" /></span></td>
+          <td class="ct">D</td>
           <td class="ct">2</td>
-          <td class="ct">3ph lift motor @16A</td>
+          <td class="ct">Air Conditioner</td>
+        </tr>
+        <tr>
+          <td class="ct">F</td>
+          <td class="ct">1</td>
+          <td class="ct">2.4Kw HWS(Storage type)</td>
         </tr>
     </tbody>
   </table>
