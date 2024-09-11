@@ -218,3 +218,47 @@ This example shows the maximum demand of the highest loaded phase in a block of 
     </tbody>
   </table>
 </div>
+
+<div class="table-wrapper">
+  <table class="alt">
+    <thead>
+      <tr>
+        <th>LG</th>
+        <th>No.</th>
+        <th>Equipmente</th>
+      </tr>
+    </thead>
+    <tbody>
+        <tr>
+          <td class="ct"><span class="image fit"><img src= "assets/images/capstone/md/LGdescription06.png" alt="" /></span></td>
+          <td class="ct">6</td>
+          <td class="ct">150w incandescent secutiy lights</td>
+        </tr>
+        <tr>
+          <td class="ct"><span class="image fit"><img src= "assets/images/capstone/md/LGdescription07.png" alt="" /></td>
+          <td class="ct">9</td>
+          <td class="ct">10A single GPO</td>
+        </tr>
+        <tr>
+          <td class="ct"><span class="image fit"><img src= "assets/images/capstone/md/LGdescription08.png" alt="" /></span></td>
+          <td class="ct">2</td>
+          <td class="ct">Clothes dryers @12A</td>
+        </tr>
+        <tr>
+          <td class="ct"><span class="image"><img src= "assets/images/capstone/md/LGdescription09.png" alt="" /></span></td>
+          <td class="ct">1</td>
+          <td class="ct">1ph motor @8A</td>
+        </tr>
+        <tr>
+          <td class="ct"><span class="image"><img src= "assets/images/capstone/md/LGdescription09.png" alt="" /></span></td>
+          <td class="ct">1</td>
+          <td class="ct">1ph motor @6A</td>
+        </tr>
+        <tr>
+          <td class="ct"><span class="image"><img src= "assets/images/capstone/md/LGdescription10.png" alt="" /></span></td>
+          <td class="ct">2</td>
+          <td class="ct">3ph lift motor @16A</td>
+        </tr>
+    </tbody>
+  </table>
+</div>
