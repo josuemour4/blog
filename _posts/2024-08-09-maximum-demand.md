@@ -286,15 +286,6 @@ This example shows the maximum demand of the highest loaded phase in a block of 
           <td class="ct">6.5A</td>
           <td class="ct">6.5A</td>
         </tr>
-        <tr>
-          <td class="ct"></td>
-          <td class="ct"></td>
-          <td class="ct"></td>
-          <td class="ct"></td>
-          <td class="ct"></td>
-          <td class="ct"></td>
-          <td class="ct"></td>
-        </tr>
     </tbody>
   </table>
 </div>
