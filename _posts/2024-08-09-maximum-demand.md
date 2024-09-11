@@ -280,3 +280,41 @@ This example shows the maximum demand of the highest loaded phase in a block of 
     </tbody>
   </table>
 </div>
+
+Calculation: 
+
+<div class="table-wrapper">
+  <table class="alt">
+    <thead>
+      <tr>
+        <th>LG</th>
+        <th>Description</th>
+        <th>Table C1 Description</th>
+        <th>Calculation</th>
+        <th>A</th>
+        <th>B</th>
+        <th>C</th>
+      </tr>
+    </thead>
+    <tbody>
+        <tr>
+          <td class="ct">A1</td>
+          <td class="ct">Lights</td>
+          <td class="ct"><span class="image"><img src= "assets/images/LGdescription11.png" alt="" /></span></td>
+          <td class="ct">5+(0.25*6)=6.5A</td>
+          <td class="ct">6.5A</td>
+          <td class="ct">6.5A</td>
+          <td class="ct">6.5A</td>
+        </tr>
+        <tr>
+          <td class="ct"></td>
+          <td class="ct"></td>
+          <td class="ct"></td>
+          <td class="ct"></td>
+          <td class="ct"></td>
+          <td class="ct"></td>
+          <td class="ct"></td>
+        </tr>
+    </tbody>
+  </table>
+</div>
