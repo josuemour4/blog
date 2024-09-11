@@ -214,10 +214,7 @@ This example shows the maximum demand of the highest loaded phase in a block of 
           <td class="ct">F</td>
           <td class="ct">1</td>
           <td class="ct">2.4Kw HWS(Storage type)</td>
-        </tr>
-    </tbody>
-  </table>
-</div>
+        
 
 <div class="table-wrapper">
   <table class="alt">
