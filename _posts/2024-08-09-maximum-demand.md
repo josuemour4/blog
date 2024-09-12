@@ -300,7 +300,7 @@ Calculation:
         <tr>
           <td class="ct">A1</td>
           <td class="ct">Lights</td>
-          <td class="ct"><span class="image"><img src= "assets/images/capstone/md/LGdescription11.png" alt="" /></span></td>
+          <td class="ct"><span class="image fit"><img src= "assets/images/capstone/md/LGdescription11.png" alt="" /></span></td>
           <td class="ct">5+(0.25*6)=6.5A</td>
           <td class="ct">6.5A</td>
           <td class="ct">6.5A</td>
@@ -309,7 +309,7 @@ Calculation:
         <tr>
           <td class="ct">B1</td>
           <td class="ct">GPO</td>
-          <td class="ct"><span class="image"><img src= "assets/images/capstone/md/LGdescription12.png" alt="" /></span></td>
+          <td class="ct"><span class="image fit"><img src= "assets/images/capstone/md/LGdescription12.png" alt="" /></span></td>
           <td class="ct">15+(3.75*6)=37.5A</td>
           <td class="ct">37.5A</td>
           <td class="ct">37.5A</td>
@@ -318,7 +318,7 @@ Calculation:
         <tr>
           <td class="ct">C</td>
           <td class="ct">Range</td>
-          <td class="ct"><span class="image"><img src= "assets/images/capstone/md/LGdescription13.png" alt="" /></span></td>
+          <td class="ct"><span class="image fit"><img src= "assets/images/capstone/md/LGdescription13.png" alt="" /></span></td>
           <td class="ct">2.8*6=16.8A</td>
           <td class="ct">16.8A</td>
           <td class="ct">16.8A</td>
@@ -327,7 +327,7 @@ Calculation:
         <tr>
           <td class="ct">D</td>
           <td class="ct">A/C</td>
-          <td class="ct"><span class="image"><img src= "assets/images/capstone/md/LGdescription14.png" alt="" /></span></td>
+          <td class="ct"><span class="image fit"><img src= "assets/images/capstone/md/LGdescription14.png" alt="" /></span></td>
           <td class="ct">2 air conditioner of 12A each, 2*12*6*.75=108A</td>
           <td class="ct">108A</td>
           <td class="ct">108A</td>
@@ -336,7 +336,7 @@ Calculation:
         <tr>
           <td class="ct">F</td>
           <td class="ct">SWH</td>
-          <td class="ct"><span class="image"><img src= "assets/images/capstone/md/LGdescription15.png" alt="" /></span></td>
+          <td class="ct"><span class="image fit"><img src= "assets/images/capstone/md/LGdescription15.png" alt="" /></span></td>
           <td class="ct">6*6=36A</td>
           <td class="ct">36A</td>
           <td class="ct">36A</td>
