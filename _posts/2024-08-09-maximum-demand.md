@@ -300,7 +300,7 @@ Calculation:
         <tr>
           <td class="ct">A1</td>
           <td class="ct">Lights</td>
-          <td class="ct"><span class="image"><img src= "assets/images/LGdescription11.png" alt="" /></span></td>
+          <td class="ct"><span class="image"><img src= "assets/images/capstone/md/LGdescription11.png" alt="" /></span></td>
           <td class="ct">5+(0.25*6)=6.5A</td>
           <td class="ct">6.5A</td>
           <td class="ct">6.5A</td>
