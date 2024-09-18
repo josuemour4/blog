@@ -354,3 +354,50 @@ Calculation:
     </tbody>
   </table>
 </div>
+
+Communal load
+
+<div class="table-wrapper">
+  <table class="alt">
+    <thead>
+      <tr>
+        <th>LG</th>
+        <th>Description</th>
+        <th>Table C1 Description</th>
+        <th>Calculation</th>
+        <th>A</th>
+        <th>B</th>
+        <th>C</th>
+      </tr>
+    </thead>
+    <tbody>
+        <tr>
+          <td class="ct">H</td>
+          <td class="ct">Lights</td>
+          <td class="ct"><span class="image"><img src= "assets/images/capstone/md/LGdescription16.png" alt="" /></span></td>
+          <td class="ct">6*150/230=3.9A</td>
+          <td class="ct">3.9</td>
+          <td class="ct"></td>
+          <td class="ct"></td>
+        </tr>
+        <tr>
+          <td class="ct">I</td>
+          <td class="ct">GPO</td>
+          <td class="ct"><span class="image"><img src= "assets/images/capstone/md/LGdescription17.png" alt="" /></span></td>
+          <td class="ct">9*2=18 <br />But, on the books says max of 15A</td>
+          <td class="ct"></td>
+          <td class="ct">15A</td>
+          <td class="ct"></td>
+        </tr>
+        <tfoot>
+          <tr>
+            <td colspan="3"></td>
+            <td><b>TOTAL</b></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+        </tfoot>
+    </tbody>
+  </table>
+</div>
