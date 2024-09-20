@@ -389,6 +389,43 @@ Communal load
           <td class="ct">15A</td>
           <td class="ct"></td>
         </tr>
+        <tr>
+          <td class="ct">I</td>
+          <td class="ct">GPO</td>
+          <td class="ct"><span class="image"><img src= "assets/images/LGdescription17.png" alt="" /></span></td>
+          <td class="ct">9*2=18 <br />But, on the books says max of 15A</td>
+          <td class="ct"></td>
+          <td class="ct">15A</td>
+          <td class="ct"></td>
+        </tr>
+        <tr>
+          <td class="ct">I</td>
+          <td class="ct">Clothes dry</td>
+          <td class="ct"><span class="image"><img src= "assets/images/capstone/md/LGdescription18.png" alt="" /></span></td>
+          <td class="ct">2*12*0.5=12A</td>
+          <td class="ct"></td>
+          <td class="ct"></td>
+          <td class="ct">12A</td>
+        </tr>
+        <tr>
+          <td class="ct">L</td>
+          <td class="ct">Motor</td>
+          <td class="ct"><span class="image"><img src= "assets/images/capstone/md/LGdescription19.png" alt="" /></span></td>
+          <td class="ct">Description on table C2: <b>Full load of highest rated motor, plus 50% of full load of remainder</b>
+            <br /> It is two motor one 8A the other 6A. Full load in the phase A and B.</td>
+          <td class="ct">8A</td>
+          <td class="ct">6A</td>
+          <td class="ct"></td>
+        </tr>
+        <tr>
+          <td class="ct">K</td>
+          <td class="ct">Lift</td>
+          <td class="ct"><span class="image"><img src= "assets/images/capstone/md/LGdescription20.png" alt="" /></span></td>
+          <td class="ct">Description on table C2: <b>(I) Largest lift motor—125% full load <br /> (ii) Next largest lift motor—75% full load.</b> <br /> 16*1.25=20A and 16*0.75=12A</td>
+          <td class="ct">20A <br/>12A</td>
+          <td class="ct">20A <br/>12A</td>
+          <td class="ct">20A <br/>12A</td>
+        </tr>
         <tfoot>
           <tr>
             <td colspan="3"></td>
