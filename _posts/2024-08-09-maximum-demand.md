@@ -21,6 +21,45 @@ images:
     text-align: center;
     vertical-align: middle;
   }
+  .circle {
+    display: inline-block;
+    padding: 10px;
+    border: 2px solid red;
+    border-radius: 50%;
+    text-align: center;
+    white-space: nowrap;
+    color: red;
+    position: relative;
+  }
+
+  .circle:hover::after {
+    content: 'Maximum demand'; /* Texto do balão */
+    position: absolute;
+    bottom: 150%;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: black;
+    color: white; 
+    padding: 5px;
+    border-radius: 5px;
+    white-space: nowrap;
+    font-size: 12px;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    opacity: 1;
+  }
+
+  .circle:hover::before {
+    content: '';
+    position: absolute;
+    bottom: 120%;
+    left: 50%;
+    transform: translateX(-50%);
+    border-width: 5px;
+    border-style: solid;
+    border-color: black transparent transparent transparent;
+    opacity: 1; 
+  }
 </style>
 
 Finally, I’m going to start writing about maximum demand. As I mentioned in my previous post, I’m still waiting for Fair Skills to tell me if I’ll need to take the aptitude test. If that happens, I want to be as prepared as I have been in the past. However, this time is different; I’m a father now. But what’s really making it hard for me to concentrate is not fatherhood, but the fact that I’ve been working for 7 years without a vacation, that I was intentionally harmed by my last employer, and that I have a number of other problems that have accumulated over the years.
@@ -47,6 +86,7 @@ Table C1 is used for single and domestic installations.
 
 Table C2 is used for non-domestic installations.
 
+The scenario below shows the calculation example for the highest maximum demand in a block with 18 units and a shared area.
 
 <div class="table-wrapper">
   <table class="alt">
@@ -430,9 +470,46 @@ Communal load
           <tr>
             <td colspan="3"></td>
             <td><b>TOTAL</b></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>43.9A</td>
+            <td>53A</td>
+            <td>44A</td>
+          </tr>
+        </tfoot>
+    </tbody>
+  </table>
+</div>
+
+Total maximum demand of the units and communal
+
+<div class="table-wrapper">
+  <table class="alt">
+    <thead>
+      <tr>
+        <th>Location</th>
+        <th>A</th>
+        <th>B</th>
+        <th>C</th>
+      </tr>
+    </thead>
+    <tbody>
+        <tr>
+          <td class="ct">Units</td>
+          <td class="ct">204.8A</td>
+          <td class="ct">204.8A</td>
+          <td class="ct">204.8A</td>
+        </tr>
+        <tr>
+          <td class="ct">Communal</td>
+          <td class="ct">43.9A</td>
+          <td class="ct">53A</td>
+          <td class="ct">44A</td>
+        </tr>
+        <tfoot>
+          <tr>
+            <td class="ct"><b>TOTAL</b></td>
+            <td class="ct"><b> 248.7A </b> </td>
+            <td class="ct"><span class="circle"><b> 257.8A</b></span></td>
+            <td class="ct"><b> 248.8A </b> </td>
           </tr>
         </tfoot>
     </tbody>
