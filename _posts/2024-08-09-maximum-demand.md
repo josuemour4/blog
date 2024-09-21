@@ -60,6 +60,17 @@ images:
     border-color: black transparent transparent transparent;
     opacity: 1; 
   }
+
+  .niceT {
+    font-family: 'Arial', sans-serif;
+    font-size: 18px;
+    line-height: 1.6;
+    color: #333;
+    text-align: justify;
+    letter-spacing: 0.5px;
+    word-spacing: 2px;
+    margin: 15px 0;
+}
 </style>
 
 Finally, I’m going to start writing about maximum demand. As I mentioned in my previous post, I’m still waiting for Fair Skills to tell me if I’ll need to take the aptitude test. If that happens, I want to be as prepared as I have been in the past. However, this time is different; I’m a father now. But what’s really making it hard for me to concentrate is not fatherhood, but the fact that I’ve been working for 7 years without a vacation, that I was intentionally harmed by my last employer, and that I have a number of other problems that have accumulated over the years.
@@ -86,7 +97,7 @@ Table C1 is used for single and domestic installations.
 
 Table C2 is used for non-domestic installations.
 
-The scenario below shows the calculation example for the highest maximum demand in a block with 18 units and a shared area.
+<p class="niceT">The scenario below shows the calculation example for the highest maximum demand in a block with 18 units and a shared area.</p>
 
 <div class="table-wrapper">
   <table class="alt">
@@ -216,9 +227,9 @@ The scenario below shows the calculation example for the highest maximum demand 
   </table>
 </div>
 
-Example of multiple domestic maximum demand.
+**Example of multiple domestic maximum demand.**
 
-This example shows the maximum demand of the highest loaded phase in a block of 18 units, each with the following single-phase load:
+<p class="niceT">This example shows the maximum demand of the highest loaded phase in a block of 18 units, each with the following single-phase load:</p>
 
 <div class="table-wrapper">
   <table class="alt">
@@ -258,6 +269,8 @@ This example shows the maximum demand of the highest loaded phase in a block of 
     </tbody>
   </table>
 </div>
+
+**Communal load**
 
 <div class="table-wrapper">
   <table class="alt">
@@ -321,7 +334,7 @@ This example shows the maximum demand of the highest loaded phase in a block of 
   </table>
 </div>
 
-Calculation: 
+**Calculation:**
 
 <div class="table-wrapper">
   <table class="alt">
@@ -395,7 +408,7 @@ Calculation:
   </table>
 </div>
 
-Communal load
+**Communal load**
 
 <div class="table-wrapper">
   <table class="alt">
@@ -479,7 +492,7 @@ Communal load
   </table>
 </div>
 
-Total maximum demand of the units and communal
+<p class="niceT">Total maximum demand of the units and communal</p>
 
 <div class="table-wrapper">
   <table class="alt">
@@ -515,3 +528,5 @@ Total maximum demand of the units and communal
     </tbody>
   </table>
 </div>
+
+<p class="niceT">The Balance allowed is 20A or 20% of difference, what mean that the value is good.</p>
