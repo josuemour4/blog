@@ -99,7 +99,7 @@ Table C2 is used for non-domestic installations.
 
 **Example of single domestic maximum demand.**
 
-<p class="niceT">The following scenario is an example used for calculating the maximum demand in a domestic household. It includes the following items:</p>
+<p class="niceT">The following scenario is an example used for calculating the maximum demand in a domestic house. It includes the following items:</p>
 
 - 24 - lights  
 - 3 - 2X36W flurescent lights @ 0.38A  
