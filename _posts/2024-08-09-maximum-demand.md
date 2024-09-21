@@ -97,7 +97,22 @@ Table C1 is used for single and domestic installations.
 
 Table C2 is used for non-domestic installations.
 
-<p class="niceT">The scenario below shows the calculation example for the highest maximum demand in a block with 18 units and a shared area.</p>
+**Example of single domestic maximum demand.**
+
+<p class="niceT">The following scenario is an example used for calculating the maximum demand in a domestic household. It includes the following items:</p>
+
+- 24 - lights  
+- 3 - 2X36W flurescent lights @ 0.38A  
+- 4 - 80w celiling fans  
+- 2 - 150w external lights  
+- 2 - 10A single socket outlets  
+- 21 - 10A double socket outlets  
+- 1 - 15A socket outlet  
+- 1 - 20A socket outlet  
+- 1 - Clothes dryer @13A (has a 15A plug)  
+- 1 - Washig machine @6A (has a 10A plug)  
+- 1 - 2.3Kw HWS - storage type  
+- 1 - 7.6Kw range  
 
 <div class="table-wrapper">
   <table class="alt">
@@ -227,9 +242,11 @@ Table C2 is used for non-domestic installations.
   </table>
 </div>
 
+<p class="niceT">The maximum demand for the example of single domestic is 73A.</p>
+
 **Example of multiple domestic maximum demand.**
 
-<p class="niceT">This example shows the maximum demand of the highest loaded phase in a block of 18 units, each with the following single-phase load:</p>
+<p>This example shows the maximum demand of the highest loaded phase in a block of 18 units, each with the following single-phase load:</p>
 
 <div class="table-wrapper">
   <table class="alt">
