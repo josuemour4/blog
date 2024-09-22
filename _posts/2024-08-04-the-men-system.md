@@ -91,3 +91,5 @@ Under these conditions there is a further requirement from Clause 5.5.3.1 (c) (v
 **Note 1:** PENs are not connected (ie: soldered) to other neutrals at any time at the main switchboard!
 
 **Note 2:** AS/NZS 3000 clause 2.10.5.4 says **“The terminals for the connection of the MEN connection and for the main neutral conductor shall be legibly and indelibly marked at the main neutral bar.”**
+
+It is therefore safe to say that in Australia, under the Multiple Earthed Neutral (MEN) system, earthing (or grounding) plays a crucial role in the safety of electrical installations. The primary purpose of earthing in the MEN system is to ensure that any electrical faults that occur, such as a short circuit, are safely routed to ground. This prevents electric shocks, reduces the risk of fire and ensures the proper functioning of circuit protection devices such as fuses and circuit breakers.
