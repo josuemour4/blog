@@ -76,10 +76,10 @@ The operating characteristics of a device protecting a conductor against overloa
 . <b>2.1</b>   IB ≤ IN ≤ IZ  
 . <b>2.2</b>   I2 1.45 x IZ 
 
--  <b>IB</b> = the current for which the circuit is designed, e.g. maximum demand. <span class="mxiImgInteraction"><i class="fas fa-solid fa-image iconExclamation" aria-hidden="true"></i><img src="({{site.image_path}}/capstone/Co-o_CCC_VD/vdimg.png" alt="Imagem de exemplo"></span>  
--  <b>IN</b> = the nominal current of the protective device. <span class="mxiImgInteraction"><i class="fas fa-solid fa-image iconExclamation" aria-hidden="true"></i><img src="({{site.image_path}}/capstone/Co-o_CCC_VD/pDevices.jpg" alt="Imagem de exemplo"></span>  
+-  <b>IB</b> = the current for which the circuit is designed, e.g. maximum demand. <span class="mxiImgInteraction"><i class="fas fa-solid fa-image iconExclamation" aria-hidden="true"></i><img src="assets/images/capstone/Co-o_CCC_VD/vdimg.png" alt="Imagem de exemplo"></span>  
+-  <b>IN</b> = the nominal current of the protective device. <span class="mxiImgInteraction"><i class="fas fa-solid fa-image iconExclamation" aria-hidden="true"></i><img src="assets/images/capstone/Co-o_CCC_VD/pDevices.jpg" alt="Imagem de exemplo"></span>  
 -  <b>Z</b> = the continuous current-carrying capacity of the conductor
-<span class="mxiImgInteraction"><i class="fas fa-solid fa-image iconExclamation" aria-hidden="true"></i><img src="({{site.image_path}}/capstone/Co-o_CCC_VD/cable.jpg" alt="Imagem de exemplo"></span>  
+<span class="mxiImgInteraction"><i class="fas fa-solid fa-image iconExclamation" aria-hidden="true"></i><img src="assets/images/capstone/Co-o_CCC_VD/cable.jpg" alt="Imagem de exemplo"></span>  
 -  <b>I2</b> = the current ensuring effective operation of the protective device and may be taken as equal to either—  
 
 <b>(a)</b> the operating current in conventional time for circuit- breakers (1.45 IN); or  
