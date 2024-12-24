@@ -46,6 +46,19 @@ images:
     .mxiImgInteraction:hover img {
       display: block;
     }
+
+    /* Media query for small screens (mobile and tablet) */
+@media (max-width: 768px) {
+  .mxiImgInteraction img {
+    position: fixed; /* Fix the position relative to the viewport */
+    top: 50%; /* Center vertically */
+    left: 50%; /* Center horizontally */
+    transform: translate(-50%, -50%); /* Adjust position */
+    width: 90%; /* Adjust size to fit smaller screens */
+    max-width: 400px; /* Prevent the image from being too large */
+    z-index: 1000; /* Ensure it appears on top of other elements */
+  }
+}
   </style>
 
 Co-ordination: what does it mean?
