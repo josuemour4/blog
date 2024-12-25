@@ -59,6 +59,151 @@ images:
     z-index: 1000; /* Ensure it appears on top of other elements */
   }
 }
+
+
+.circle {
+    display: inline-block;
+    padding: 10px;
+    border: 2px solid red;
+    border-radius: 50%;
+    text-align: center;
+    white-space: nowrap;
+    color: red;
+    position: relative;
+  }
+
+  .circle:hover::after {
+    content: '≤ 63A one hour \A >63A two hours'; 
+    white-space: pre;
+    position: absolute;
+    bottom: 150%;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: black;
+    color: white; 
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 12px;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    opacity: 1;
+  }
+
+  .circle:hover::before {
+    content: '';
+    position: absolute;
+    bottom: 120%;
+    left: 50%;
+    transform: translateX(-50%);
+    border-width: 5px;
+    border-style: solid;
+    border-color: black transparent transparent transparent;
+    opacity: 1; 
+  }
+
+  /* CB */
+  .circleCB {
+    display: inline-block;
+    padding: 10px;
+    border: 2px solid blue;
+    border-radius: 50%;
+    text-align: center;
+    white-space: nowrap;
+    color: red;
+    position: relative;
+  }
+
+  .circleCB:hover::after {
+    content: url('assets/images/capstone/Co-o_CCC_VD/form.png'); 
+    white-space: pre;
+    position: absolute;
+    bottom: 150%;
+    left: 50%;
+    transform: translateX(-50%);
+    color: white; 
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 12px;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    opacity: 1;
+  }
+
+  @media (max-width: 768px) {
+    .circleCB:hover::after {
+        position: fixed; 
+        top: 50%; 
+        left: 50%;
+        transform: translate(-50%, -50%); 
+        width: 90%;
+        max-width: 400px; 
+        z-index: 1000; 
+    }
+}
+
+  .circleCB:hover::before {
+    content: '';
+    position: absolute;
+    bottom: 120%;
+    left: 50%;
+    transform: translateX(-50%);
+    border-width: 5px;
+    border-style: solid;
+    border-color: black transparent transparent transparent;
+    opacity: 1; 
+  }
+
+  /* Fuse */
+  .circleFuse {
+    display: inline-block;
+    padding: 10px;
+    border: 2px solid blue;
+    border-radius: 50%;
+    text-align: center;
+    white-space: nowrap;
+    color: red;
+    position: relative;
+  }
+
+  .circleFuse:hover::after {
+    content: url('assets/images/capstone/Co-o_CCC_VD/form2.png'); 
+    white-space: pre;
+    position: absolute;
+    bottom: 150%;
+    left: 50%;
+    transform: translateX(-50%);
+    color: white; 
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 12px;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    opacity: 1;
+  }
+
+  @media (max-width: 768px) {
+    .circleFuse:hover::after {
+        position: fixed; 
+        top: 50%; 
+        left: 50%;
+        transform: translate(-50%, -50%); 
+        width: 90%;
+        max-width: 400px; 
+        z-index: 1000; 
+    }
+  }
+
+  .circleFuse:hover::before {
+    content: '';
+    position: absolute;
+    bottom: 120%;
+    left: 50%;
+    transform: translateX(-50%);
+    border-width: 5px;
+    border-style: solid;
+    border-color: black transparent transparent transparent;
+    opacity: 1; 
+  }
   </style>
 
 Co-ordination: what does it mean?
@@ -95,11 +240,11 @@ The operating characteristics of a device protecting a conductor against overloa
 <span class="mxiImgInteraction"><i class="fas fa-solid fa-image iconExclamation" aria-hidden="true"></i><img src="assets/images/capstone/Co-o_CCC_VD/cable.jpg" alt="Imagem de exemplo"></span>  
 -  <b>I2</b> = the current ensuring effective operation of the protective device and may be taken as equal to either—  
 
-<b>(a)</b> the operating current in conventional time for circuit- breakers (1.45 IN); or  
-<b>(b)</b> the fusing current in conventional time for fuses (1.6 IN for fuses in accordance with the IEC 60269 series).
+<b>(a)</b> the operating current in <span class="circle"><b> conventional time</b></span> for <span class="circleCB">circuit- breakers</span> (1.45 IN) = ; or  
+<b>(b)</b> the fusing current in conventional time for <span class="circleFuse">fuses</span> (1.6 IN for fuses in accordance with the IEC 60269 series).
 
 Below are the clauses that address this issue:
 
-2.5.3 Protection against overload current 
+2.5.3 Protection against overload current  
 2.5.3.1 Coordination between conductors and protective devices 
 
