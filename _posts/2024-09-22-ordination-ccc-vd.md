@@ -220,12 +220,19 @@ images:
     }
 
     .circleT1:hover::after {
-      content: url('assets/images/capstone/Co-o_CCC_VD/t1.png'); 
-      position: fixed; 
-      top: 50%; 
+      content: '';
+      position: fixed;
+      top: 50%;
       left: 50%;
-      transform: translate(-50%, -50%); 
-      z-index: 1000; 
+      transform: translate(-50%, -50%);
+      width: 90%; 
+      max-width: 400px; 
+      aspect-ratio: 1 / 1; 
+      background-image: url('assets/images/t1.png');
+      background-size: contain; 
+      background-repeat: no-repeat; 
+      background-position: center; 
+      z-index: 1000;
       opacity: 1;
       transition: opacity 0.3s ease;
       pointer-events: none;
@@ -247,13 +254,12 @@ images:
 
     @media (max-width: 768px) {
       .circleT1:hover::after {
-        position: fixed; 
-        top: 50%; 
-        left: 50%;
-        transform: translate(-50%, -50%); 
-        width: 90%;
-        max-width: 400px; 
-        z-index: 1000; 
+        .circleT1:hover::after {
+        width: 80%; 
+        max-width: 300px; 
+        aspect-ratio: 1 / 1; 
+        background-size: contain;
+        background-position: center;
       }
 
       .circleT1:hover::before {
