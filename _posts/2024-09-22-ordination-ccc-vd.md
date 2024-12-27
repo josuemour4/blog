@@ -4,6 +4,7 @@ author: Josue Moura
 title:  "Ordination - Current carrying capacity - Voltage Drop"
 subtitle: "Getting ready for the test!"
 date:   2024-09-22 20:49:10 +1100
+last_modified_at: 2024-12-27 16:04:27
 categories: 3000:2018 Maximum Demand
 tags: [australia, NSW, capstone, preparation,Voltage Drop, Current carrying capacity, Ordination]
 location: "Sydney - Australia"
@@ -206,6 +207,8 @@ images:
   }
   </style>
 
+**Co-ordination**
+
 Co-ordination: what does it mean?
 
 Co-ordination means ensuring that the operating characteristics of a protective device (such as a circuit breaker or fuse) are correctly adjusted in relation to the electrical conductor, so as to protect it against possible overloads. In other words, it is the alignment of the load, maximum demand, protected device and the current carry capacity to ensure that the system operates safely, meeting the conditions specified in AS/NZS3000, clause 2.5.3.1.
@@ -248,3 +251,12 @@ Below are the clauses that address this issue:
 2.5.3 Protection against overload current  
 2.5.3.1 Coordination between conductors and protective devices 
 
+**Current carrying capacity**
+
+Current Carrying Capacity refers to the maximum current that an electrical conductor (such as a cable or wire) can carry continuously without its temperature exceeding the safe limits specified by the conductor material and its insulation.
+
+In simple terms, it is the safe limit of current that the cable can carry without overheating or causing damage to the electrical installation.
+
+To align with environmental values and extend the cable's service life, its capacity must be de-rated.
+
+The book used to do this calculation is AS/NZS 3008.1.1. 
