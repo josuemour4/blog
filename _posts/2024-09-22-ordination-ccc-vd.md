@@ -228,7 +228,7 @@ images:
       width: 90%; 
       max-width: 400px; 
       aspect-ratio: 1 / 1; 
-      background-image: url('assets/images/capstone/Co-o_CCC_VD/form2.png'); 
+      background-image: url('assets/images/capstone/Co-o_CCC_VD/T1.png'); 
       background-size: contain; 
       background-repeat: no-repeat; 
       background-position: center; 
