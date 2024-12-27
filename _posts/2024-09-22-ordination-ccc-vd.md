@@ -4,7 +4,7 @@ author: Josue Moura
 title:  "Ordination - Current carrying capacity - Voltage Drop"
 subtitle: "Getting ready for the test!"
 date:   2024-09-22 20:49:10 +1100
-last_modified_at: 2024-12-27 16:04:27
+last_modified_at: 2024-12-26 16:04:27
 categories: 3000:2018 Maximum Demand
 tags: [australia, NSW, capstone, preparation,Voltage Drop, Current carrying capacity, Ordination]
 location: "Sydney - Australia"
