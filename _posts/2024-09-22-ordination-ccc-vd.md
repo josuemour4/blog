@@ -4,7 +4,7 @@ author: Josue Moura
 title:  "Ordination - Current carrying capacity - Voltage Drop"
 subtitle: "Getting ready for the test!"
 date:   2024-09-22 20:49:10 +1100
-last_modified_at: 2024-12-26 16:04:27
+last_modified_at: 2024-12-27 07:17:01
 categories: 3000:2018 Maximum Demand
 tags: [australia, NSW, capstone, preparation,Voltage Drop, Current carrying capacity, Ordination]
 location: "Sydney - Australia"
@@ -205,6 +205,69 @@ images:
     border-color: black transparent transparent transparent;
     opacity: 1; 
   }
+
+  /* Table 1 */
+  .circleT1 {
+      display: inline-block;
+      padding: 10px;
+      border: 2px solid blue;
+      border-radius: 50%;
+      text-align: center;
+      white-space: nowrap;
+      color: red;
+      position: relative;
+      cursor: pointer;
+    }
+
+    .circleT1:hover::after {
+      content: url('assets/images/capstone/Co-o_CCC_VD/t1.png'); 
+      position: fixed; 
+      top: 50%; 
+      left: 50%;
+      transform: translate(-50%, -50%); 
+      z-index: 1000; 
+      opacity: 1;
+      transition: opacity 0.3s ease;
+      pointer-events: none;
+    }
+
+    .circleT1:hover::before {
+      content: '';
+      position: fixed; 
+      top: 50%; 
+      left: 50%;
+      transform: translate(-50%, -50%);
+      border-width: 10px;
+      border-style: solid;
+      border-color: black transparent transparent transparent;
+      opacity: 1; 
+      z-index: 1001; 
+      pointer-events: none;
+    }
+
+    @media (max-width: 768px) {
+      .circleT1:hover::after {
+        position: fixed; 
+        top: 50%; 
+        left: 50%;
+        transform: translate(-50%, -50%); 
+        width: 90%;
+        max-width: 400px; 
+        z-index: 1000; 
+      }
+
+      .circleT1:hover::before {
+        position: fixed; 
+        top: 50%; 
+        left: 50%;
+        transform: translate(-50%, -50%);
+        border-width: 10px;
+        border-style: solid;
+        border-color: black transparent transparent transparent;
+        opacity: 1; 
+        z-index: 1001; 
+      }
+    }
   </style>
 
 **Co-ordination**
@@ -260,3 +323,15 @@ In simple terms, it is the safe limit of current that the cable can carry withou
 To align with environmental values and extend the cable's service life, its capacity must be de-rated.
 
 The book used to do this calculation is AS/NZS 3008.1.1. 
+
+<span class="circleT1">Table 1</span> of AS/NZS 3008.1.1 is typically used for most calculations, provided the cable operates within the maximum allowable temperature limits.
+
+
+When selecting a cable, it is essential to consider the formula IB ≤ IN ≤ IZ or IB ≤ IN ≤ 0.9 x IZ for fuse. This ensures that the cable is correctly sized to support the circuit current. For example, if the sizing is made for a 20A circuit, but the expected maximum demand is 25A, the cable will not be able to support the current, resulting in risks to the safety and operation of the system.
+
+For thermoplastic or XLPE cable first determine the installation method from tables
+- 3(1) unenclosed in air
+- 3(2) enclosed
+- 3(3) buried direct in ground
+- 3(4) buried in enclosure
+
