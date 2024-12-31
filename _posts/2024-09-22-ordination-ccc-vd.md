@@ -336,8 +336,17 @@ The book used to do this calculation is AS/NZS 3008.1.1.
 When selecting a cable, it is essential to consider the formula IB ≤ IN ≤ IZ or IB ≤ IN ≤ 0.9 x IZ for fuse. This ensures that the cable is correctly sized to support the circuit current. For example, if the sizing is made for a 20A circuit, but the expected maximum demand is 25A, the cable will not be able to support the current, resulting in risks to the safety and operation of the system.
 
 For thermoplastic or XLPE cable first determine the installation method from tables
+
 - 3(1) unenclosed in air
+  - Refers to cables installed on supports or suspended in the air, without ventilation restrictions.
+  - Generally allows greater heat dissipation, resulting in greater current capacity.
 - 3(2) enclosed
+  - Refers to cables installed in ducts, conduits or enclosed spaces.
+  - Reduced ventilation may limit heat dissipation, reducing current capacity
 - 3(3) buried direct in ground
+  - Cables installed directly in the ground, usually in a bed of sand or similar.
+  - Current capacity depends on the thermal conditions of the ground.
 - 3(4) buried in enclosure
+  - Cables installed in ducts or enclosures buried in the ground.
+  - May limit heat dissipation compared to direct installation in the ground.
 
