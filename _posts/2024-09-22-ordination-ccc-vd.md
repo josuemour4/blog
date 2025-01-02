@@ -326,14 +326,7 @@ Current Carrying Capacity refers to the maximum current that an electrical condu
 
 In simple terms, it is the safe limit of current that the cable can carry without overheating or causing damage to the electrical installation.
 
-To align with environmental values and extend the cable's service life, its capacity must be de-rated.
-
-The book used to do this calculation is AS/NZS 3008.1.1. 
-
 <span class="circleT1">Table 1</span> of AS/NZS 3008.1.1 is typically used for most calculations, provided the cable operates within the maximum allowable temperature limits.
-
-
-When selecting a cable, it is essential to consider the formula IB ≤ IN ≤ IZ or IB ≤ IN ≤ 0.9 x IZ for fuse. This ensures that the cable is correctly sized to support the circuit current. For example, if the sizing is made for a 20A circuit, but the expected maximum demand is 25A, the cable will not be able to support the current, resulting in risks to the safety and operation of the system.
 
 For thermoplastic or XLPE cable first determine the installation method from tables
 
@@ -349,4 +342,27 @@ For thermoplastic or XLPE cable first determine the installation method from tab
 - 3(4) buried in enclosure
   - Cables installed in ducts or enclosures buried in the ground.
   - May limit heat dissipation compared to direct installation in the ground.
+
+On the table, the columns are organized by
+
+1. Item number  
+2. Cable details (two or three core)  
+3. Reference drawing  
+4. Current-carrying capacity table reference  
+5. Methods of installation for cables deemed to have the same current-carrying capacity  
+6. Derating table  
+
+
+Below is an example of selecting the appropriate 4-core + E unarmored V75 Circular Cu cable, with insulation installed using the method "clipped directly to a vertical surface and open to air," protected by a circuit breaker (CB), for a sub-main circuit designed to handle a maximum demand of 172A.
+
+Circuit breaker: 200A  
+
+1. The cable will be opened to air, so <b> table  3(1)</b>.  
+2. Check column 5 for the description that applies for it, <b> item 13</b>.    
+    - <b>Cables installed — (a) clipped direct to a wall, floor, ceiling or similar surface;</b>
+3. Double check on colun 2 if it is three core  
+4. Confirm in column 4 which table and column should be checked to find the CCC value, <b> Tables 13 and columns 5.  
+5. The selection of the cable should be based on the current carry capacity of the cable, so that means for the protection of a device selected as 200A the cable needs to satisfy the form IN ≤ IZ, in this case the cable selected is 95mm, once it is capable to carry 213A (200 is ≤ 213).  
+
+
 
