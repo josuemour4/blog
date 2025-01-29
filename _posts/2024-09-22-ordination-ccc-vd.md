@@ -3,7 +3,7 @@ layout: post
 author: Josue Moura
 title:  "Ordination - Current carrying capacity - Voltage Drop"
 subtitle: "Getting ready for the test!"
-date:   2024-09-22 20:49:10 +1100
+date:   2025-01-30 05:35:10 +1100
 last_modified_at: 2025-01-03 09:55:07
 categories: 3000:2018 Maximum Demand
 tags: [australia, NSW, capstone, preparation,Voltage Drop, Current carrying capacity, Ordination]
@@ -254,7 +254,6 @@ images:
 
     @media (max-width: 768px) {
       .circleT1:hover::after {
-        .circleT1:hover::after {
         width: 80%; 
         max-width: 300px; 
         aspect-ratio: 1 / 1; 
@@ -274,9 +273,42 @@ images:
         z-index: 1001; 
       }
     }
+
+/* temp */
+
+    .typing {
+      font-size: 24px;
+      font-weight: bold;
+      color: #333;
+    }
+
+    .dots::after {
+      content: "";
+      display: inline-block;
+      animation: dots 1.5s steps(4, end) infinite;
+    }
+
+    @keyframes dots {
+      0% {
+        content: "";
+      }
+      25% {
+        content: ".";
+      }
+      50% {
+        content: "..";
+      }
+      75% {
+        content: "...";
+      }
+      100% {
+        content: "";
+      }
+    }
+/* temp */
   </style>
 
-**Co-ordination**
+<h2>Co-ordination</h2>
 
 Co-ordination: what does it mean?
 
@@ -364,5 +396,20 @@ Circuit breaker: 200A
 4. Confirm in column 4 which table and column should be checked to find the CCC value, <b> Tables 13 and columns 5.  
 5. The selection of the cable should be based on the current carry capacity of the cable, so that means for the protection of a device selected as 200A the cable needs to satisfy the form IN ≤ IZ, in this case the cable selected is 95mm, once it is capable to carry 213A (200 is ≤ 213).  
 
+A sub-main cable
+Maximum demand: 172A
+4 core + E unarmored V75 Circular Cu
+Insulation methond clipped directly to a vertical surface open to air protected by CB
 
 
+Answer:
+
+cb 200A
+Table select 13(1) -> Item 13 -> Selected table 13 Columns 5
+The selection of the cable should be based on the current carry capacity of the cable, so that means for the protection of a device selected as 200A the cable needs to satisfy the form IN ≤ IZ, in this case the cable selected is 95mm, once it is capable to carry 213A (200 is ≤ 213).
+
+<h2>Voltage drop</h2>
+
+<div class="typing">
+    Writing<span class="dots"></span>
+</div>
