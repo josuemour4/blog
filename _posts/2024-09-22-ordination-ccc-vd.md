@@ -3,7 +3,7 @@ layout: post
 author: Josue Moura
 title:  "Ordination - Current carrying capacity - Voltage Drop"
 subtitle: "Getting ready for the test!"
-date:   2025-01-30 05:35:10 +1100
+date:   2025-02-01 08:48:33 +1100
 last_modified_at: 2025-01-03 09:55:07
 categories: 3000:2018 Maximum Demand
 tags: [australia, NSW, capstone, preparation,Voltage Drop, Current carrying capacity, Ordination]
@@ -409,6 +409,43 @@ Table select 13(1) -> Item 13 -> Selected table 13 Columns 5
 The selection of the cable should be based on the current carry capacity of the cable, so that means for the protection of a device selected as 200A the cable needs to satisfy the form IN ≤ IZ, in this case the cable selected is 95mm, once it is capable to carry 213A (200 is ≤ 213).
 
 <h2>Voltage drop</h2>
+
+<h2>Voltage drop</h2>
+
+On the book AUSNZS 3000, clause 3.6.2 says:
+
+"The cross-sectional area of every current-carrying conductor shall be such that the voltage drop between the point of supply for the low voltage electrical installation and any point in that electrical installation does not exceed 5% of the nominal voltage at the point of supply."
+
+Electrical equipment is designed to operate within a specific voltage range (e.g. 220-250 V AC). An excessive voltage drop in a circuit can reduce the voltage available to the load, causing the equipment to operate outside its optimal range. This can result in malfunction, reduced efficiency, overload or even permanent damage to the device, compromising its useful life and the safety of the electrical installation.
+
+Therefore, VD is a fundamental concept for electrical installations to ensure the correct functioning of the network and:
+
+1. Equipment Performance  
+When the voltage at the terminals of a piece of equipment is lower than specified (due to voltage drop), performance may be impaired.  
+  - Electric motors: may lose efficiency, generate less torque or overheat.  
+  - Light bulbs: may illuminate with less intensity.  
+  - Electronic equipment: may fail or operate improperly.  
+
+2. Energy Saving  
+Excessive voltage drop results in energy losses in the cables (in the form of heat). This increases the total energy consumption and reduces the efficiency of the system.
+
+3. Safety  
+A high voltage drop can lead to overheating of conductors, especially in undersized installations, increasing the risk of:  
+  - Electrical fires.  
+  - Damage to cable insulation.  
+
+4. Standards Compliance
+Electrical standards (such as AS/NZS 3000 in Australia) set limits on voltage drop, typically around 5% of nominal voltage for low voltage installations.
+  - This ensures that the voltage at the most distant points of an installation is sufficient for the proper operation of equipment.  
+
+5. Conductor Sizing
+The calculation of voltage drop directly influences the choice of conductor gauge (cross-section).
+  - Thicker cables have lower resistance and, therefore, less voltage drop.
+  - Correct sizing avoids unnecessary expenses with oversized conductors and ensures economic and technical efficiency.
+
+6. Long Distances
+In long circuits, voltage drop is even more relevant because the cable resistance increases proportionally to the length. It is essential to correctly size the cables to avoid problems.
+
 
 <div class="typing">
     Writing<span class="dots"></span>
