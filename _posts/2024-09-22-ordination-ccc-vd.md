@@ -464,11 +464,70 @@ L  =  route length of the circuit conductors in metres (m)
 I  =  total load current/maximum demand of the circuit in amperes (A)<b>**</b>
 
 
-<b>* </b><u>To determine voltage drop in a single phase circuit, the three phase values of Vc must be multiplied by a factor of 1.155.</u>
+<b>* </b>To determine voltage drop in a single phase circuit, the three phase values of Vc must be multiplied by a factor of 1.155.
 
-<b>** </b> <u> AS/NZS 3000:2018 Clause 3.6.2 Exception 1 states that half of the circuit protection device nominal current rating may be used for calculating voltage drop on circuits where the load is distributed across the length of the circuit, such as with socket outlets and lighting circuits. </u>
+<b>** </b>AS/NZS 3000:2018 Clause 3.6.2 Exception 1 states that half of the circuit protection device nominal current rating may be used for calculating voltage drop on circuits where the load is distributed across the length of the circuit, such as with socket outlets and lighting circuits.
 
-<div class="typing">
-    Writing<span class="dots"></span>
-</div>
-![I am trying my best]({{site.image_path}}/capstone/Co-o_CCC_VD/Working.gif)
+
+**Example**
+
+A 400 V three phase final subcircuit has a maximum demand of 28 A, a route length of 46 m, and is supplied by a 4 mm2 multicore V-90 TPS Cu cable. Determine the voltage drop in the final subcircuit.
+
+The first step is to find the value of Vc from the applicable table in AS/NZS 3008.1.1:2017. In this case, Table 42 is selected based on the type of cable, and Column 6 is selected based on the conductor operating temperature of 75⁰C.
+
+The value of Vc for a 4 mm2 cable operating at 75⁰C is 9.71 mV/A.m.
+
+![Calculation for voltage drop]({{site.image_path}}/capstone/Co-o_CCC_VD/VDCalc.png)
+
+How can you select the right cable to minimize excessive voltage drop?
+
+To determine the minimum cable size needed to meet a specified permissible voltage drop, the following rearrangement of the equation can be applied:
+
+![Calculation for the permissible voltage drop]({{site.image_path}}/capstone/Co-o_CCC_VD/PVD.png)
+
+Where:
+
+Vc  =  maximum permissible value of millivolts per ampere-metre (mV/A.m)
+
+Vd  =  maximum permissible voltage drop in volts (V)
+
+L  =  route length of the circuit conductors in metres (m)
+
+I  =  total load current/maximum demand of the circuit in amperes (A)
+
+The calculated mV/A.m value can then be used to reference the minimum cable size from the relevant table in AS/NZS 3008.1.1:2017.
+
+**Example**
+
+**Select Cables to Satisfy Voltage Drop Limitations**
+
+Determine the minimum size cable for a 230 V final subcircuit based on current carrying capacity and voltage drop requirements. The final subcircuit has a maximum demand of 20 A, a route length of 24 m and is to be wired using twin and earth V-90 TPS cable tied to a perforated cable tray with minimum spacing.
+
+The first step is to determine the maximum permitted voltage drop in the final subcircuit.
+
+![Calculation for the permissible voltage drop]({{site.image_path}}/capstone/Co-o_CCC_VD/first.png)
+
+The maximum voltage drop permitted in the cable is 2.83 V. The next step is to determine the minimum cable size based on current carrying capacity requirements. In this case, AS/NZS 3008.1.1:2017 Table 10, Column 2 is used based on the cable and installation method. The minimum cable size based on current carrying capacity is 2.5 mm2, which has a current carrying capacity of 27 A.
+
+The next step is to determine the minimum cable size based on voltage drop limitations. This is done by determining the maximum permitted Vc for the cable.
+
+![Calculation for the permissible voltage drop]({{site.image_path}}/capstone/Co-o_CCC_VD/second.png)
+
+This is a single phase value of Vc and must be converted to a three phase value, as we will be referencing three phase values in AS/NZS 3008.1.1:2017.
+
+![Calculation for the permissible voltage drop]({{site.image_path}}/capstone/Co-o_CCC_VD/third.png)
+
+Finally, we find the applicable voltage drop table in AS/NZS 3008.1.1:2017. In this case, Table 42 is selected based on the type of cable, and Column 6 is selected based on the operating temperature of 75⁰C.
+
+The value of Vc for the cable must be less than or equal to 5.11 mV/A.m, which means that the minimum cable size to satisfy voltage drop limitations is 10 mm2, which has a Vc of 3.86 mV/A.m.
+
+Note that in this case, it is likely that the submains and possibly the consumer mains cables would be upsized to assist with reducing the installation voltage drop.
+
+Conclusion:
+
+Coordination between protective devices and conductors, as well as voltage drop control, are fundamental aspects to ensure the safety, efficiency and compliance of electrical installations, as established by the AS/NZS 3000 standard. Proper coordination ensures that protective devices, such as circuit breakers and fuses, operate correctly in the event of overloads, preventing damage to cables, equipment and fire risks. On the other hand, calculating and minimizing voltage drops are essential to keep the voltage within the operating limits of the equipment, avoiding malfunctions, energy losses and compromising the service life of the installation.
+
+The correct selection of cables, based on the current carrying capacity (CCC) and the permissible voltage drop values, is crucial to meet the demands of the circuit and ensure the safe and efficient performance of the electrical system. Tables such as those in AS/NZS 3008.1.1 provide precise guidelines for sizing cables and calculating voltage drops, considering factors such as installation method, temperature and circuit length.
+
+Therefore, strict application of these principles not only complies with technical standards, but also protects lives, equipment and property by ensuring that electrical installations operate reliably and safely. Attention to detail in the design and execution of electrical installations is essential to prevent failures, reduce operating costs and extend the life of systems.
+
