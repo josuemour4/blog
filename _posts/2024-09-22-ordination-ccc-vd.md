@@ -446,7 +446,29 @@ The calculation of voltage drop directly influences the choice of conductor gaug
 6. Long Distances
 In long circuits, voltage drop is even more relevant because the cable resistance increases proportionally to the length. It is essential to correctly size the cables to avoid problems.
 
+**Calculating Voltage Drop**
+
+The mV/A.m value represents the number of millivolts dropped when a current of one ampere flows in a one metre length of cable. The following equation can be used to determine the voltage drop in a given circuit:
+
+<img src="assets/images/voltageDropCalc.png" alt="Voltage Drop calculation" />
+
+
+Where:
+
+Vd  =  voltage drop in volts (V)
+
+Vc  =  three phase millivolts per ampere-metre (mV/A.m)<b>*</b>
+
+L  =  route length of the circuit conductors in metres (m)
+
+I  =  total load current/maximum demand of the circuit in amperes (A)<b>**</b>
+
+
+<b>* </b><u>To determine voltage drop in a single phase circuit, the three phase values of Vc must be multiplied by a factor of 1.155.</u>
+
+<b>** </b> <u> AS/NZS 3000:2018 Clause 3.6.2 Exception 1 states that half of the circuit protection device nominal current rating may be used for calculating voltage drop on circuits where the load is distributed across the length of the circuit, such as with socket outlets and lighting circuits. </u>
 
 <div class="typing">
     Writing<span class="dots"></span>
 </div>
+![I am trying my best]({{site.image_path}}/capstone/Co-o_CCC_VD/Working.gif)
