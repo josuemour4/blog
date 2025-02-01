@@ -450,7 +450,7 @@ In long circuits, voltage drop is even more relevant because the cable resistanc
 
 The mV/A.m value represents the number of millivolts dropped when a current of one ampere flows in a one metre length of cable. The following equation can be used to determine the voltage drop in a given circuit:
 
-<img src="assets/images/voltageDropCalc.png" alt="Voltage Drop calculation" />
+<img src="assets/images/capstone/Co-o_CCC_VD/voltageDropCalc.png" alt="Voltage Drop calculation" />
 
 
 Where:
